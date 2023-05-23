@@ -1,0 +1,2488 @@
+epoch,batch,location,mem (gb)
+0,0,before training anything,31.9280128
+0,0,before training adversary (1),31.9274967
+0,0,after training adversary (1),33.11717581
+0,0,after training adversary (2),33.16969882
+0,0,before training main model,33.16969882
+0,0,before training main model,35.2349225
+0,1,before training anything,35.2349225
+0,1,before training adversary (1),35.2349225
+0,1,after training adversary (1),35.2717824
+0,1,after training adversary (2),35.31413914
+0,1,before training main model,35.31413914
+0,1,before training main model,35.4465833
+0,2,before training anything,35.4465833
+0,2,before training adversary (1),35.4465833
+0,2,after training adversary (1),35.50047437
+0,2,after training adversary (2),35.55852288
+0,2,before training main model,35.56184064
+0,2,before training main model,35.64200346
+0,3,before training anything,35.64200346
+0,3,before training adversary (1),35.64200346
+0,3,after training adversary (1),35.689984
+0,3,after training adversary (2),35.73102182
+0,3,before training main model,35.73100134
+0,3,before training main model,35.83254528
+0,4,before training anything,35.83254528
+0,4,before training adversary (1),35.83292621
+0,4,after training adversary (1),35.85495859
+0,4,after training adversary (2),35.90601114
+0,4,before training main model,35.90601114
+0,4,before training main model,36.15363072
+0,5,before training anything,36.15906202
+0,5,before training adversary (1),36.15941018
+0,5,after training adversary (1),36.15115264
+0,5,after training adversary (2),36.1778176
+0,5,before training main model,36.1778176
+0,5,before training main model,36.3379671
+0,6,before training anything,36.3379671
+0,6,before training adversary (1),36.3379671
+0,6,after training adversary (1),36.356608
+0,6,after training adversary (2),36.38035661
+0,6,before training main model,36.38035661
+0,6,before training main model,36.45600563
+0,7,before training anything,36.45600563
+0,7,before training adversary (1),36.45600563
+0,7,after training adversary (1),36.4917801
+0,7,after training adversary (2),36.50602598
+0,7,before training main model,36.50602598
+0,7,before training main model,36.58200269
+0,8,before training anything,36.5819863
+0,8,before training adversary (1),36.58184294
+0,8,after training adversary (1),36.63592243
+0,8,after training adversary (2),36.64956621
+0,8,before training main model,36.64956621
+0,8,before training main model,36.72001331
+0,9,before training anything,36.72029184
+0,9,before training adversary (1),36.72029184
+0,9,after training adversary (1),36.74898842
+0,9,after training adversary (2),36.79623168
+0,9,before training main model,36.79623168
+0,9,before training main model,36.92704563
+0,10,before training anything,36.93143654
+0,10,before training adversary (1),36.93249331
+0,10,after training adversary (1),36.92899533
+0,10,after training adversary (2),36.93760102
+0,10,before training main model,36.93760102
+0,10,before training main model,37.11134925
+0,11,before training anything,37.09328589
+0,11,before training adversary (1),37.0922537
+0,11,after training adversary (1),37.1178537
+0,11,after training adversary (2),37.12731136
+0,11,before training main model,37.12731136
+0,11,before training main model,37.21668198
+0,12,before training anything,37.21668198
+0,12,before training adversary (1),37.21668198
+0,12,after training adversary (1),37.24053299
+0,12,after training adversary (2),37.25358285
+0,12,before training main model,37.25329203
+0,12,before training main model,37.31265536
+0,13,before training anything,37.31226214
+0,13,before training adversary (1),37.31226214
+0,13,after training adversary (1),37.33027635
+0,13,after training adversary (2),37.36612864
+0,13,before training main model,37.3668905
+0,13,before training main model,37.41075046
+0,14,before training anything,37.41075046
+0,14,before training adversary (1),37.41075046
+0,14,after training adversary (1),37.43793971
+0,14,after training adversary (2),37.4576169
+0,14,before training main model,37.45737114
+0,14,before training main model,37.59443149
+0,15,before training anything,37.6005632
+0,15,before training adversary (1),37.60136192
+0,15,after training adversary (1),37.63313869
+0,15,after training adversary (2),37.61472307
+0,15,before training main model,37.61614438
+0,15,before training main model,37.74765875
+0,16,before training anything,37.74765875
+0,16,before training adversary (1),37.74765875
+0,16,after training adversary (1),37.7880576
+0,16,after training adversary (2),37.80338483
+0,16,before training main model,37.80338483
+0,16,before training main model,37.85926246
+0,17,before training anything,37.85926246
+0,17,before training adversary (1),37.85926246
+0,17,after training adversary (1),37.89833421
+0,17,after training adversary (2),37.91374336
+0,17,before training main model,37.91374336
+0,17,before training main model,37.99010918
+0,18,before training anything,37.99010918
+0,18,before training adversary (1),37.99010918
+0,18,after training adversary (1),38.00572723
+0,18,after training adversary (2),38.0267479
+0,18,before training main model,38.0267479
+0,18,before training main model,38.08362496
+0,19,before training anything,38.08362496
+0,19,before training adversary (1),38.08362496
+0,19,after training adversary (1),38.10541568
+0,19,after training adversary (2),38.12509696
+0,19,before training main model,38.12438835
+0,19,before training main model,38.2481449
+0,20,before training anything,38.25066394
+0,20,before training adversary (1),38.25129062
+0,20,after training adversary (1),38.28867891
+0,20,after training adversary (2),38.3117271
+0,20,before training main model,38.31163699
+0,20,before training main model,38.48675328
+0,21,before training anything,38.48918221
+0,21,before training adversary (1),38.4928727
+0,21,after training adversary (1),38.47159398
+0,21,after training adversary (2),38.49357312
+0,21,before training main model,38.49281536
+0,21,before training main model,38.56490496
+0,22,before training anything,38.56490496
+0,22,before training adversary (1),38.56490496
+0,22,after training adversary (1),38.58536858
+0,22,after training adversary (2),38.61730509
+0,22,before training main model,38.61730509
+0,22,before training main model,38.6748375
+0,23,before training anything,38.6748375
+0,23,before training adversary (1),38.6748375
+0,23,after training adversary (1),38.69802086
+0,23,after training adversary (2),38.71868109
+0,23,before training main model,38.71868109
+0,23,before training main model,38.80852685
+0,24,before training anything,38.80852685
+0,24,before training adversary (1),38.80852685
+0,24,after training adversary (1),38.8337664
+0,24,after training adversary (2),38.85971456
+0,24,before training main model,38.85971456
+0,24,before training main model,38.97945293
+0,25,before training anything,38.9676032
+0,25,before training adversary (1),38.9676032
+0,25,after training adversary (1),38.98279117
+0,25,after training adversary (2),39.00377907
+0,25,before training main model,39.00377907
+0,25,before training main model,39.14726605
+0,26,before training anything,39.14726605
+0,26,before training adversary (1),39.14726605
+0,26,after training adversary (1),39.1638057
+0,26,after training adversary (2),39.18279885
+0,26,before training main model,39.18279885
+0,26,before training main model,39.25775974
+0,27,before training anything,39.25775974
+0,27,before training adversary (1),39.25775974
+0,27,after training adversary (1),39.25668659
+0,27,after training adversary (2),39.27962829
+0,27,before training main model,39.27963648
+0,27,before training main model,39.34201446
+0,28,before training anything,39.34201446
+0,28,before training adversary (1),39.34201446
+0,28,after training adversary (1),39.36120832
+0,28,after training adversary (2),39.38759475
+0,28,before training main model,39.38759475
+0,28,before training main model,39.44923136
+0,29,before training anything,39.44895283
+0,29,before training adversary (1),39.44895283
+0,29,after training adversary (1),39.48206899
+0,29,after training adversary (2),39.49986202
+0,29,before training main model,39.49986202
+0,29,before training main model,39.60282726
+0,30,before training anything,39.6379136
+0,30,before training adversary (1),39.63714765
+0,30,after training adversary (1),39.65677568
+0,30,after training adversary (2),39.68412467
+0,30,before training main model,39.68421069
+0,30,before training main model,39.82476083
+0,31,before training anything,39.82476083
+0,31,before training adversary (1),39.82476083
+0,31,after training adversary (1),39.83475098
+0,31,after training adversary (2),39.85648435
+0,31,before training main model,39.85926554
+0,31,before training main model,39.913984
+0,32,before training anything,39.913984
+0,32,before training adversary (1),39.91436493
+0,32,after training adversary (1),39.93637274
+0,32,after training adversary (2),39.97072179
+0,32,before training main model,39.97072179
+0,32,before training main model,40.0386089
+0,33,before training anything,40.0386089
+0,33,before training adversary (1),40.0386089
+0,33,after training adversary (1),40.09607578
+0,33,after training adversary (2),40.08309146
+0,33,before training main model,40.08309146
+0,33,before training main model,40.2568192
+0,34,before training anything,40.25745408
+0,34,before training adversary (1),40.25745408
+0,34,after training adversary (1),40.29138944
+0,34,after training adversary (2),40.3129344
+0,34,before training main model,40.31280742
+0,34,before training main model,40.4036567
+0,35,before training anything,40.40250573
+0,35,before training adversary (1),40.40114176
+0,35,after training adversary (1),40.44106547
+0,35,after training adversary (2),40.47331328
+0,35,before training main model,40.4732928
+0,35,before training main model,40.49022976
+0,36,before training anything,40.49022976
+0,36,before training adversary (1),40.49010278
+0,36,after training adversary (1),40.50815386
+0,36,after training adversary (2),40.54375219
+0,36,before training main model,40.52942029
+0,36,before training main model,40.57762202
+0,37,before training anything,40.57760154
+0,37,before training adversary (1),40.57760154
+0,37,after training adversary (1),40.59004109
+0,37,after training adversary (2),40.60828467
+0,37,before training main model,40.60828467
+0,37,before training main model,40.66772992
+0,38,before training anything,40.66772992
+0,38,before training adversary (1),40.66772992
+0,38,after training adversary (1),40.71988838
+0,38,after training adversary (2),40.77819494
+0,38,before training main model,40.77819494
+0,38,before training main model,40.79023309
+0,39,before training anything,40.79023309
+0,39,before training adversary (1),40.79023309
+0,39,after training adversary (1),40.80745267
+0,39,after training adversary (2),40.83205325
+0,39,before training main model,40.83164365
+0,39,before training main model,40.93782426
+0,40,before training anything,40.93607936
+0,40,before training adversary (1),40.93607936
+0,40,after training adversary (1),40.97953792
+0,40,after training adversary (2),41.04619213
+0,40,before training main model,41.04619213
+0,40,before training main model,41.15420774
+0,41,before training anything,41.15420774
+0,41,before training adversary (1),41.15420774
+0,41,after training adversary (1),41.17157888
+0,41,after training adversary (2),41.19606886
+0,41,before training main model,41.19606886
+0,41,before training main model,41.26606541
+0,42,before training anything,41.26589338
+0,42,before training adversary (1),41.26589338
+0,42,after training adversary (1),41.2893225
+0,42,after training adversary (2),41.31094938
+0,42,before training main model,41.31094938
+0,42,before training main model,41.3647913
+0,43,before training anything,41.36472576
+0,43,before training adversary (1),41.36472576
+0,43,after training adversary (1),41.4068695
+0,43,after training adversary (2),41.44737485
+0,43,before training main model,41.44710451
+0,43,before training main model,41.61678131
+0,44,before training anything,41.61678131
+0,44,before training adversary (1),41.61678131
+0,44,after training adversary (1),41.52308122
+0,44,after training adversary (2),41.57360947
+0,44,before training main model,41.5748137
+0,44,before training main model,41.63310797
+0,45,before training anything,41.62731213
+0,45,before training adversary (1),41.62757837
+0,45,after training adversary (1),41.67503872
+0,45,after training adversary (2),41.69682534
+0,45,before training main model,41.69682534
+0,45,before training main model,41.84890573
+0,46,before training anything,41.84890573
+0,46,before training adversary (1),41.84890573
+0,46,after training adversary (1),41.87022131
+0,46,after training adversary (2),41.88608102
+0,46,before training main model,41.88608102
+0,46,before training main model,41.98167757
+0,47,before training anything,41.98167757
+0,47,before training adversary (1),41.98167757
+0,47,after training adversary (1),41.97686886
+0,47,after training adversary (2),42.00603648
+0,47,before training main model,42.00603648
+0,47,before training main model,42.06015693
+0,48,before training anything,42.06015693
+0,48,before training adversary (1),42.06015693
+0,48,after training adversary (1),42.08275866
+0,48,after training adversary (2),42.11372851
+0,48,before training main model,42.11372851
+0,48,before training main model,42.17848218
+0,49,before training anything,42.17899827
+0,49,before training adversary (1),42.17899827
+0,49,after training adversary (1),42.19507098
+0,49,after training adversary (2),42.21792666
+0,49,before training main model,42.21792666
+0,49,before training main model,42.28589568
+0,50,after batches are done,42.28589568
+0,50,after model test_on_batch,42.28975821
+0,50,after adv test_on_batch,42.36286362
+0,50,before reloading weights,42.39511552
+0,50,after reloading weights,42.39806874
+1,0,before training anything,42.43360154
+1,0,before training adversary (1),42.43494093
+1,0,after training adversary (1),42.44701184
+1,0,after training adversary (2),42.4554496
+1,0,before training main model,42.4554496
+1,0,before training main model,42.60958208
+1,1,before training anything,42.60958208
+1,1,before training adversary (1),42.60958208
+1,1,after training adversary (1),42.63742259
+1,1,after training adversary (2),42.65819341
+1,1,before training main model,42.65819341
+1,1,before training main model,42.72929587
+1,2,before training anything,42.72929587
+1,2,before training adversary (1),42.72929587
+1,2,after training adversary (1),42.75183206
+1,2,after training adversary (2),42.78486221
+1,2,before training main model,42.78486221
+1,2,before training main model,42.84035482
+1,3,before training anything,42.84035482
+1,3,before training adversary (1),42.84035482
+1,3,after training adversary (1),42.86590976
+1,3,after training adversary (2),42.88771686
+1,3,before training main model,42.88771686
+1,3,before training main model,42.96077312
+1,4,before training anything,42.96077312
+1,4,before training adversary (1),42.96077312
+1,4,after training adversary (1),42.98554573
+1,4,after training adversary (2),42.99802214
+1,4,before training main model,42.99802214
+1,4,before training main model,43.04346317
+1,5,before training anything,43.05741414
+1,5,before training adversary (1),43.05731994
+1,5,after training adversary (1),43.09269709
+1,5,after training adversary (2),43.09820621
+1,5,before training main model,43.09820621
+1,5,before training main model,43.29581363
+1,6,before training anything,43.29581363
+1,6,before training adversary (1),43.29633792
+1,6,after training adversary (1),43.25268275
+1,6,after training adversary (2),43.26759219
+1,6,before training main model,43.26759219
+1,6,before training main model,43.31603149
+1,7,before training anything,43.31603149
+1,7,before training adversary (1),43.31603149
+1,7,after training adversary (1),43.33785088
+1,7,after training adversary (2),43.3969111
+1,7,before training main model,43.39899187
+1,7,before training main model,43.4854871
+1,8,before training anything,43.4854871
+1,8,before training adversary (1),43.4854871
+1,8,after training adversary (1),43.47741798
+1,8,after training adversary (2),43.49159424
+1,8,before training main model,43.49159424
+1,8,before training main model,43.53869824
+1,9,before training anything,43.53861222
+1,9,before training adversary (1),43.53861222
+1,9,after training adversary (1),43.56535091
+1,9,after training adversary (2),43.59262208
+1,9,before training main model,43.59260979
+1,9,before training main model,43.67470182
+1,10,before training anything,43.6860928
+1,10,before training adversary (1),43.68544973
+1,10,after training adversary (1),43.73730099
+1,10,after training adversary (2),43.76734106
+1,10,before training main model,43.76717722
+1,10,before training main model,43.89128192
+1,11,before training anything,43.89128192
+1,11,before training adversary (1),43.89128192
+1,11,after training adversary (1),43.91735296
+1,11,after training adversary (2),43.93791488
+1,11,before training main model,43.93791488
+1,11,before training main model,43.97688832
+1,12,before training anything,43.97688832
+1,12,before training adversary (1),43.97683098
+1,12,after training adversary (1),44.00799334
+1,12,after training adversary (2),44.06776627
+1,12,before training main model,44.06830285
+1,12,before training main model,44.11482931
+1,13,before training anything,44.11482931
+1,13,before training adversary (1),44.11482931
+1,13,after training adversary (1),44.12981248
+1,13,after training adversary (2),44.15080858
+1,13,before training main model,44.15080858
+1,13,before training main model,44.20330291
+1,14,before training anything,44.20342989
+1,14,before training adversary (1),44.20342989
+1,14,after training adversary (1),44.22021939
+1,14,after training adversary (2),44.24711782
+1,14,before training main model,44.24711782
+1,14,before training main model,44.34857165
+1,15,before training anything,44.35427328
+1,15,before training adversary (1),44.35465421
+1,15,after training adversary (1),44.41678643
+1,15,after training adversary (2),44.4271616
+1,15,before training main model,44.4271616
+1,15,before training main model,44.569088
+1,16,before training anything,44.569088
+1,16,before training adversary (1),44.569088
+1,16,after training adversary (1),44.59251712
+1,16,after training adversary (2),44.6096343
+1,16,before training main model,44.6096343
+1,16,before training main model,44.65465754
+1,17,before training anything,44.65465754
+1,17,before training adversary (1),44.65460838
+1,17,after training adversary (1),44.67120538
+1,17,after training adversary (2),44.70626304
+1,17,before training main model,44.70626304
+1,17,before training main model,44.75568128
+1,18,before training anything,44.75580416
+1,18,before training adversary (1),44.75580416
+1,18,after training adversary (1),44.82553037
+1,18,after training adversary (2),44.80761856
+1,18,before training main model,44.80761856
+1,18,before training main model,44.88885862
+1,19,before training anything,44.88885862
+1,19,before training adversary (1),44.88885862
+1,19,after training adversary (1),44.9125417
+1,19,after training adversary (2),44.96561357
+1,19,before training main model,44.96728064
+1,19,before training main model,44.99223347
+1,20,before training anything,45.01210726
+1,20,before training adversary (1),45.01210726
+1,20,after training adversary (1),45.05325978
+1,20,after training adversary (2),45.06907853
+1,20,before training main model,45.06907853
+1,20,before training main model,45.20518042
+1,21,before training anything,45.20518042
+1,21,before training adversary (1),45.20518042
+1,21,after training adversary (1),45.21984
+1,21,after training adversary (2),45.24395725
+1,21,before training main model,45.24395725
+1,21,before training main model,45.29303552
+1,22,before training anything,45.29327309
+1,22,before training adversary (1),45.29327309
+1,22,after training adversary (1),45.35717888
+1,22,after training adversary (2),45.379072
+1,22,before training main model,45.379072
+1,22,before training main model,45.41882368
+1,23,before training anything,45.41882368
+1,23,before training adversary (1),45.42045389
+1,23,after training adversary (1),45.44085606
+1,23,after training adversary (2),45.45763738
+1,23,before training main model,45.4587351
+1,23,before training main model,45.5177175
+1,24,before training anything,45.5177175
+1,24,before training adversary (1),45.5177175
+1,24,after training adversary (1),45.5430144
+1,24,after training adversary (2),45.5603241
+1,24,before training main model,45.5603241
+1,24,before training main model,45.66750413
+1,25,before training anything,45.6954921
+1,25,before training adversary (1),45.69935462
+1,25,after training adversary (1),45.71846656
+1,25,after training adversary (2),45.7373655
+1,25,before training main model,45.7373655
+1,25,before training main model,45.86809754
+1,26,before training anything,45.86809754
+1,26,before training adversary (1),45.86809754
+1,26,after training adversary (1),45.8765312
+1,26,after training adversary (2),45.90560051
+1,26,before training main model,45.90544077
+1,26,before training main model,45.97120205
+1,27,before training anything,45.97120205
+1,27,before training adversary (1),45.97120205
+1,27,after training adversary (1),46.00137728
+1,27,after training adversary (2),46.01284198
+1,27,before training main model,46.01284198
+1,27,before training main model,46.08579174
+1,28,before training anything,46.08618906
+1,28,before training adversary (1),46.07019008
+1,28,after training adversary (1),46.08793805
+1,28,after training adversary (2),46.12107059
+1,28,before training main model,46.12107059
+1,28,before training main model,46.1776937
+1,29,before training anything,46.1776937
+1,29,before training adversary (1),46.1776937
+1,29,after training adversary (1),46.19017421
+1,29,after training adversary (2),46.22064845
+1,29,before training main model,46.22077542
+1,29,before training main model,46.31690035
+1,30,before training anything,46.32068506
+1,30,before training adversary (1),46.32117658
+1,30,after training adversary (1),46.36362342
+1,30,after training adversary (2),46.37800858
+1,30,before training main model,46.37800858
+1,30,before training main model,46.54454784
+1,31,before training anything,46.54507213
+1,31,before training adversary (1),46.55131034
+1,31,after training adversary (1),46.53597082
+1,31,after training adversary (2),46.55843738
+1,31,before training main model,46.55843738
+1,31,before training main model,46.60803174
+1,32,before training anything,46.60803174
+1,32,before training adversary (1),46.60803174
+1,32,after training adversary (1),46.65144115
+1,32,after training adversary (2),46.68268544
+1,32,before training main model,46.68265267
+1,32,before training main model,46.74062746
+1,33,before training anything,46.74062746
+1,33,before training adversary (1),46.74062746
+1,33,after training adversary (1),46.76366336
+1,33,after training adversary (2),46.77793382
+1,33,before training main model,46.77793382
+1,33,before training main model,46.86457242
+1,34,before training anything,46.86457242
+1,34,before training adversary (1),46.86457242
+1,34,after training adversary (1),46.85808435
+1,34,after training adversary (2),46.87274803
+1,34,before training main model,46.87249408
+1,34,before training main model,46.96573952
+1,35,before training anything,46.97629491
+1,35,before training adversary (1),46.97561088
+1,35,after training adversary (1),47.02715085
+1,35,after training adversary (2),47.04594739
+1,35,before training main model,47.04594739
+1,35,before training main model,47.18770995
+1,36,before training anything,47.18770995
+1,36,before training adversary (1),47.18770995
+1,36,after training adversary (1),47.20688333
+1,36,after training adversary (2),47.23244646
+1,36,before training main model,47.23244646
+1,36,before training main model,47.2830935
+1,37,before training anything,47.2830935
+1,37,before training adversary (1),47.2830935
+1,37,after training adversary (1),47.34058496
+1,37,after training adversary (2),47.34818714
+1,37,before training main model,47.34818714
+1,37,before training main model,47.41367398
+1,38,before training anything,47.41367398
+1,38,before training adversary (1),47.41367398
+1,38,after training adversary (1),47.43744307
+1,38,after training adversary (2),47.4572841
+1,38,before training main model,47.4572841
+1,38,before training main model,47.5230167
+1,39,before training anything,47.5230167
+1,39,before training adversary (1),47.5230167
+1,39,after training adversary (1),47.54115789
+1,39,after training adversary (2),47.6030935
+1,39,before training main model,47.60236442
+1,39,before training main model,47.65983539
+1,40,before training anything,47.66461952
+1,40,before training adversary (1),47.66461952
+1,40,after training adversary (1),47.7129687
+1,40,after training adversary (2),47.72940595
+1,40,before training main model,47.72940595
+1,40,before training main model,47.83450931
+1,41,before training anything,47.83450931
+1,41,before training adversary (1),47.83450931
+1,41,after training adversary (1),47.85218765
+1,41,after training adversary (2),47.86438144
+1,41,before training main model,47.86438144
+1,41,before training main model,47.90296576
+1,42,before training anything,47.90296576
+1,42,before training adversary (1),47.90296576
+1,42,after training adversary (1),47.92265523
+1,42,after training adversary (2),47.94904166
+1,42,before training main model,47.94904166
+1,42,before training main model,47.99780864
+1,43,before training anything,47.99780864
+1,43,before training adversary (1),47.99780864
+1,43,after training adversary (1),48.03080602
+1,43,after training adversary (2),48.04931584
+1,43,before training main model,48.04931584
+1,43,before training main model,48.10520986
+1,44,before training anything,48.10520986
+1,44,before training adversary (1),48.10520986
+1,44,after training adversary (1),48.21479014
+1,44,after training adversary (2),48.15218278
+1,44,before training main model,48.15471002
+1,44,before training main model,48.25489408
+1,45,before training anything,48.27252736
+1,45,before training adversary (1),48.27186381
+1,45,after training adversary (1),48.36105011
+1,45,after training adversary (2),48.34646426
+1,45,before training main model,48.34646426
+1,45,before training main model,48.48262349
+1,46,before training anything,48.48262349
+1,46,before training adversary (1),48.48262349
+1,46,after training adversary (1),48.50458214
+1,46,after training adversary (2),48.53229568
+1,46,before training main model,48.53229568
+1,46,before training main model,48.58630963
+1,47,before training anything,48.58618266
+1,47,before training adversary (1),48.58618266
+1,47,after training adversary (1),48.60386918
+1,47,after training adversary (2),48.63956582
+1,47,before training main model,48.63956582
+1,47,before training main model,48.68829184
+1,48,before training anything,48.68632166
+1,48,before training adversary (1),48.68632166
+1,48,after training adversary (1),48.72315699
+1,48,after training adversary (2),48.74632397
+1,48,before training main model,48.74625843
+1,48,before training main model,48.80058778
+1,49,before training anything,48.80058778
+1,49,before training adversary (1),48.80058778
+1,49,after training adversary (1),48.83761562
+1,49,after training adversary (2),48.83859046
+1,49,before training main model,48.83859046
+1,49,before training main model,48.91006566
+1,50,after batches are done,48.90995917
+1,50,after model test_on_batch,48.94088397
+1,50,after adv test_on_batch,49.10741504
+1,50,before reloading weights,49.06725376
+1,50,after reloading weights,49.04667136
+2,0,before training anything,49.05136538
+2,0,before training adversary (1),49.05136538
+2,0,after training adversary (1),49.0794967
+2,0,after training adversary (2),49.11355085
+2,0,before training main model,49.11355085
+2,0,before training main model,49.21330483
+2,1,before training anything,49.21330483
+2,1,before training adversary (1),49.21330483
+2,1,after training adversary (1),49.23734835
+2,1,after training adversary (2),49.26336205
+2,1,before training main model,49.26336205
+2,1,before training main model,49.30522317
+2,2,before training anything,49.30522317
+2,2,before training adversary (1),49.30522317
+2,2,after training adversary (1),49.3257687
+2,2,after training adversary (2),49.34651494
+2,2,before training main model,49.34651494
+2,2,before training main model,49.39635507
+2,3,before training anything,49.3962281
+2,3,before training adversary (1),49.39609702
+2,3,after training adversary (1),49.42532198
+2,3,after training adversary (2),49.44707174
+2,3,before training main model,49.44707174
+2,3,before training main model,49.53253888
+2,4,before training anything,49.53253888
+2,4,before training adversary (1),49.53253888
+2,4,after training adversary (1),49.57579264
+2,4,after training adversary (2),49.5952937
+2,4,before training main model,49.5952937
+2,4,before training main model,49.65495603
+2,5,before training anything,49.65441946
+2,5,before training adversary (1),49.65441946
+2,5,after training adversary (1),49.67825818
+2,5,after training adversary (2),49.70329293
+2,5,before training main model,49.70329293
+2,5,before training main model,49.80721254
+2,6,before training anything,49.80721254
+2,6,before training adversary (1),49.80721254
+2,6,after training adversary (1),49.93498317
+2,6,after training adversary (2),49.84652595
+2,6,before training main model,49.84652595
+2,6,before training main model,49.91479808
+2,7,before training anything,49.91479808
+2,7,before training adversary (1),49.91479808
+2,7,after training adversary (1),49.92944128
+2,7,after training adversary (2),49.94670592
+2,7,before training main model,49.94670592
+2,7,before training main model,50.00768717
+2,8,before training anything,50.00768717
+2,8,before training adversary (1),50.00715469
+2,8,after training adversary (1),50.02696294
+2,8,after training adversary (2),50.08671539
+2,8,before training main model,50.08671539
+2,8,before training main model,50.10250138
+2,9,before training anything,50.10250138
+2,9,before training adversary (1),50.10250138
+2,9,after training adversary (1),50.1283881
+2,9,after training adversary (2),50.16468275
+2,9,before training main model,50.16468275
+2,9,before training main model,50.25246413
+2,10,before training anything,50.25569178
+2,10,before training adversary (1),50.25569178
+2,10,after training adversary (1),50.30243533
+2,10,after training adversary (2),50.31430554
+2,10,before training main model,50.31430554
+2,10,before training main model,50.45981594
+2,11,before training anything,50.45981594
+2,11,before training adversary (1),50.45981594
+2,11,after training adversary (1),50.47760077
+2,11,after training adversary (2),50.50845594
+2,11,before training main model,50.50845594
+2,11,before training main model,50.63304397
+2,12,before training anything,50.63304397
+2,12,before training adversary (1),50.63304397
+2,12,after training adversary (1),50.65141043
+2,12,after training adversary (2),50.62670746
+2,12,before training main model,50.62670746
+2,12,before training main model,50.67954586
+2,13,before training anything,50.67948442
+2,13,before training adversary (1),50.67935744
+2,13,after training adversary (1),50.70113997
+2,13,after training adversary (2),50.71663514
+2,13,before training main model,50.71663514
+2,13,before training main model,50.80820941
+2,14,before training anything,50.80820941
+2,14,before training adversary (1),50.8126208
+2,14,after training adversary (1),50.80260198
+2,14,after training adversary (2),50.83369472
+2,14,before training main model,50.83369472
+2,14,before training main model,50.91621683
+2,15,before training anything,50.90721792
+2,15,before training adversary (1),50.9081559
+2,15,after training adversary (1),50.9695959
+2,15,after training adversary (2),50.9928407
+2,15,before training main model,50.99282432
+2,15,before training main model,51.13838387
+2,16,before training anything,51.13838387
+2,16,before training adversary (1),51.13838387
+2,16,after training adversary (1),51.15342029
+2,16,after training adversary (2),51.17825843
+2,16,before training main model,51.17825843
+2,16,before training main model,51.25228134
+2,17,before training anything,51.25228134
+2,17,before training adversary (1),51.25228134
+2,17,after training adversary (1),51.27365427
+2,17,after training adversary (2),51.29282355
+2,17,before training main model,51.29282355
+2,17,before training main model,51.35038464
+2,18,before training anything,51.3503273
+2,18,before training adversary (1),51.3503273
+2,18,after training adversary (1),51.37507533
+2,18,after training adversary (2),51.40211712
+2,18,before training main model,51.40211712
+2,18,before training main model,51.45672909
+2,19,before training anything,51.45672909
+2,19,before training adversary (1),51.45672909
+2,19,after training adversary (1),51.47418624
+2,19,after training adversary (2),51.61670656
+2,19,before training main model,51.61723085
+2,19,before training main model,51.58404096
+2,20,before training anything,51.57654938
+2,20,before training adversary (1),51.57654938
+2,20,after training adversary (1),51.6183081
+2,20,after training adversary (2),51.63879219
+2,20,before training main model,51.63879219
+2,20,before training main model,51.78581402
+2,21,before training anything,51.78581402
+2,21,before training adversary (1),51.78581402
+2,21,after training adversary (1),51.80764979
+2,21,after training adversary (2),51.81730816
+2,21,before training main model,51.81728358
+2,21,before training main model,51.88104602
+2,22,before training anything,51.88104602
+2,22,before training adversary (1),51.88104602
+2,22,after training adversary (1),51.90869811
+2,22,after training adversary (2),51.9424
+2,22,before training main model,51.9424
+2,22,before training main model,51.99336243
+2,23,before training anything,51.99336243
+2,23,before training adversary (1),51.99336243
+2,23,after training adversary (1),52.01427661
+2,23,after training adversary (2),52.07898522
+2,23,before training main model,52.07898522
+2,23,before training main model,52.09974374
+2,24,before training anything,52.09987072
+2,24,before training adversary (1),52.09987072
+2,24,after training adversary (1),52.1232425
+2,24,after training adversary (2),52.14099046
+2,24,before training main model,52.14099046
+2,24,before training main model,52.25606349
+2,25,before training anything,52.25126707
+2,25,before training adversary (1),52.2512425
+2,25,after training adversary (1),52.29259571
+2,25,after training adversary (2),52.29976371
+2,25,before training main model,52.29976371
+2,25,before training main model,52.44369306
+2,26,before training anything,52.44369306
+2,26,before training adversary (1),52.44369306
+2,26,after training adversary (1),52.45704192
+2,26,after training adversary (2),52.47802573
+2,26,before training main model,52.47802573
+2,26,before training main model,52.53743002
+2,27,before training anything,52.53743002
+2,27,before training adversary (1),52.53743002
+2,27,after training adversary (1),52.59217715
+2,27,after training adversary (2),52.58614374
+2,27,before training main model,52.58614374
+2,27,before training main model,52.64626074
+2,28,before training anything,52.64880026
+2,28,before training adversary (1),52.64884531
+2,28,after training adversary (1),52.67229491
+2,28,after training adversary (2),52.69564621
+2,28,before training main model,52.69553152
+2,28,before training main model,52.75114701
+2,29,before training anything,52.75114701
+2,29,before training adversary (1),52.75114701
+2,29,after training adversary (1),52.7777833
+2,29,after training adversary (2),52.79982387
+2,29,before training main model,52.79982387
+2,29,before training main model,52.89292186
+2,30,before training anything,52.89905766
+2,30,before training adversary (1),52.89905766
+2,30,after training adversary (1),52.94061568
+2,30,after training adversary (2),52.9659863
+2,30,before training main model,52.9659863
+2,30,before training main model,53.10877286
+2,31,before training anything,53.10877286
+2,31,before training adversary (1),53.10877286
+2,31,after training adversary (1),53.12714342
+2,31,after training adversary (2),53.1393495
+2,31,before training main model,53.1393495
+2,31,before training main model,53.17619712
+2,32,before training anything,53.17619712
+2,32,before training adversary (1),53.17619712
+2,32,after training adversary (1),53.20675328
+2,32,after training adversary (2),53.22552934
+2,32,before training main model,53.22552934
+2,32,before training main model,53.2952105
+2,33,before training anything,53.2952105
+2,33,before training adversary (1),53.2952105
+2,33,after training adversary (1),53.31747226
+2,33,after training adversary (2),53.33530214
+2,33,before training main model,53.33530214
+2,33,before training main model,53.39387904
+2,34,before training anything,53.39387904
+2,34,before training adversary (1),53.39387904
+2,34,after training adversary (1),53.42390682
+2,34,after training adversary (2),53.48215194
+2,34,before training main model,53.48215194
+2,34,before training main model,53.56292096
+2,35,before training anything,53.56641485
+2,35,before training adversary (1),53.56641485
+2,35,after training adversary (1),53.58678426
+2,35,after training adversary (2),53.59673344
+2,35,before training main model,53.59673344
+2,35,before training main model,53.74183424
+2,36,before training anything,53.74183424
+2,36,before training adversary (1),53.74183424
+2,36,after training adversary (1),53.76212173
+2,36,after training adversary (2),53.78798797
+2,36,before training main model,53.78798797
+2,36,before training main model,53.83908557
+2,37,before training anything,53.83908557
+2,37,before training adversary (1),53.83908557
+2,37,after training adversary (1),53.89513114
+2,37,after training adversary (2),53.91663514
+2,37,before training main model,53.91663514
+2,37,before training main model,53.96779418
+2,38,before training anything,53.96790477
+2,38,before training adversary (1),53.96790477
+2,38,after training adversary (1),53.98531277
+2,38,after training adversary (2),54.01121587
+2,38,before training main model,54.01121587
+2,38,before training main model,54.06866637
+2,39,before training anything,54.06853939
+2,39,before training adversary (1),54.06853939
+2,39,after training adversary (1),54.08730726
+2,39,after training adversary (2),54.1024256
+2,39,before training main model,54.1024256
+2,39,before training main model,54.1986816
+2,40,before training anything,54.20469453
+2,40,before training adversary (1),54.20469453
+2,40,after training adversary (1),54.29082522
+2,40,after training adversary (2),54.26714624
+2,40,before training main model,54.26714624
+2,40,before training main model,54.41420083
+2,41,before training anything,54.41420083
+2,41,before training adversary (1),54.41420083
+2,41,after training adversary (1),54.43597107
+2,41,after training adversary (2),54.45971149
+2,41,before training main model,54.45971149
+2,41,before training main model,54.51256218
+2,42,before training anything,54.51256218
+2,42,before training adversary (1),54.51256218
+2,42,after training adversary (1),54.53581107
+2,42,after training adversary (2),54.55648768
+2,42,before training main model,54.55648768
+2,42,before training main model,54.6079785
+2,43,before training anything,54.6079785
+2,43,before training adversary (1),54.6079785
+2,43,after training adversary (1),54.65014272
+2,43,after training adversary (2),54.64329011
+2,43,before training main model,54.64329011
+2,43,before training main model,54.7032064
+2,44,before training anything,54.7021824
+2,44,before training adversary (1),54.7021824
+2,44,after training adversary (1),54.7310551
+2,44,after training adversary (2),54.75325952
+2,44,before training main model,54.75325952
+2,44,before training main model,54.85177651
+2,45,before training anything,54.84591923
+2,45,before training adversary (1),54.84591923
+2,45,after training adversary (1),54.94491136
+2,45,after training adversary (2),54.90941133
+2,45,before training main model,54.90941133
+2,45,before training main model,55.04687309
+2,46,before training anything,55.04687309
+2,46,before training adversary (1),55.04687309
+2,46,after training adversary (1),55.07192422
+2,46,after training adversary (2),55.12395571
+2,46,before training main model,55.12395571
+2,46,before training main model,55.16182323
+2,47,before training anything,55.16118016
+2,47,before training adversary (1),55.16118016
+2,47,after training adversary (1),55.18918451
+2,47,after training adversary (2),55.20627302
+2,47,before training main model,55.20627302
+2,47,before training main model,55.2742953
+2,48,before training anything,55.2742953
+2,48,before training adversary (1),55.27427891
+2,48,after training adversary (1),55.29238323
+2,48,after training adversary (2),55.32017869
+2,48,before training main model,55.32017869
+2,48,before training main model,55.42220595
+2,49,before training anything,55.42220595
+2,49,before training adversary (1),55.42220595
+2,49,after training adversary (1),55.39769958
+2,49,after training adversary (2),55.43698432
+2,49,before training main model,55.43698432
+2,49,before training main model,55.5188265
+2,50,after batches are done,55.5188265
+2,50,after model test_on_batch,55.51622144
+2,50,after adv test_on_batch,55.58704128
+2,50,before reloading weights,55.58990848
+2,50,after reloading weights,55.59354163
+3,0,before training anything,55.61730253
+3,0,before training adversary (1),55.61900646
+3,0,after training adversary (1),55.64162867
+3,0,after training adversary (2),55.65997466
+3,0,before training main model,55.65854515
+3,0,before training main model,55.81774029
+3,1,before training anything,55.81774029
+3,1,before training adversary (1),55.81774029
+3,1,after training adversary (1),55.83423488
+3,1,after training adversary (2),55.8731305
+3,1,before training main model,55.8731305
+3,1,before training main model,55.90252749
+3,2,before training anything,55.90252749
+3,2,before training adversary (1),55.90252749
+3,2,after training adversary (1),55.92247501
+3,2,after training adversary (2),55.93974784
+3,2,before training main model,55.93974784
+3,2,before training main model,55.99925453
+3,3,before training anything,55.99925453
+3,3,before training adversary (1),55.99925453
+3,3,after training adversary (1),56.02002944
+3,3,after training adversary (2),56.03549594
+3,3,before training main model,56.03549594
+3,3,before training main model,56.09330688
+3,4,before training anything,56.09317581
+3,4,before training adversary (1),56.09299968
+3,4,after training adversary (1),56.12721357
+3,4,after training adversary (2),56.14621491
+3,4,before training main model,56.14621491
+3,4,before training main model,56.21089075
+3,5,before training anything,56.20037222
+3,5,before training adversary (1),56.1998807
+3,5,after training adversary (1),56.23056384
+3,5,after training adversary (2),56.25988301
+3,5,before training main model,56.25988301
+3,5,before training main model,56.3694592
+3,6,before training anything,56.3694592
+3,6,before training adversary (1),56.3694592
+3,6,after training adversary (1),56.38726451
+3,6,after training adversary (2),56.41468314
+3,6,before training main model,56.41468314
+3,6,before training main model,56.47704064
+3,7,before training anything,56.47704064
+3,7,before training adversary (1),56.47704064
+3,7,after training adversary (1),56.5333033
+3,7,after training adversary (2),56.52733133
+3,7,before training main model,56.52723302
+3,7,before training main model,56.57862554
+3,8,before training anything,56.57862554
+3,8,before training adversary (1),56.57862554
+3,8,after training adversary (1),56.61033677
+3,8,after training adversary (2),56.64350208
+3,8,before training main model,56.64339558
+3,8,before training main model,56.68998349
+3,9,before training anything,56.68998349
+3,9,before training adversary (1),56.68998349
+3,9,after training adversary (1),56.7034921
+3,9,after training adversary (2),56.77084262
+3,9,before training main model,56.77095322
+3,9,before training main model,56.82679808
+3,10,before training anything,56.82413158
+3,10,before training adversary (1),56.82413158
+3,10,after training adversary (1),56.87472128
+3,10,after training adversary (2),56.9222144
+3,10,before training main model,56.9222144
+3,10,before training main model,57.04912486
+3,11,before training anything,57.04912486
+3,11,before training adversary (1),57.04912486
+3,11,after training adversary (1),57.07660902
+3,11,after training adversary (2),57.0944512
+3,11,before training main model,57.0944512
+3,11,before training main model,57.1510743
+3,12,before training anything,57.1510743
+3,12,before training adversary (1),57.15094733
+3,12,after training adversary (1),57.17634662
+3,12,after training adversary (2),57.19656038
+3,12,before training main model,57.19656038
+3,12,before training main model,57.25000499
+3,13,before training anything,57.25000499
+3,13,before training adversary (1),57.25000499
+3,13,after training adversary (1),57.28402637
+3,13,after training adversary (2),57.30418688
+3,13,before training main model,57.30418688
+3,13,before training main model,57.36974746
+3,14,before training anything,57.36921498
+3,14,before training adversary (1),57.3693993
+3,14,after training adversary (1),57.39490509
+3,14,after training adversary (2),57.41775258
+3,14,before training main model,57.41775258
+3,14,before training main model,57.48729037
+3,15,before training anything,57.48672922
+3,15,before training adversary (1),57.48672922
+3,15,after training adversary (1),57.5218647
+3,15,after training adversary (2),57.57838541
+3,15,before training main model,57.57838541
+3,15,before training main model,57.71948032
+3,16,before training anything,57.71948032
+3,16,before training adversary (1),57.71948032
+3,16,after training adversary (1),57.73585613
+3,16,after training adversary (2),57.75756493
+3,16,before training main model,57.75756493
+3,16,before training main model,57.81067776
+3,17,before training anything,57.81080474
+3,17,before training adversary (1),57.81379072
+3,17,after training adversary (1),57.8231255
+3,17,after training adversary (2),57.85922355
+3,17,before training main model,57.85909658
+3,17,before training main model,57.92226099
+3,18,before training anything,57.92226099
+3,18,before training adversary (1),57.92226099
+3,18,after training adversary (1),57.938432
+3,18,after training adversary (2),57.97606605
+3,18,before training main model,57.97606605
+3,18,before training main model,58.02303078
+3,19,before training anything,58.02303078
+3,19,before training adversary (1),58.02277683
+3,19,after training adversary (1),58.08653517
+3,19,after training adversary (2),58.06740275
+3,19,before training main model,58.06740275
+3,19,before training main model,58.13488435
+3,20,before training anything,58.1323735
+3,20,before training adversary (1),58.13275443
+3,20,after training adversary (1),58.19551334
+3,20,after training adversary (2),58.22404608
+3,20,before training main model,58.22404608
+3,20,before training main model,58.36210586
+3,21,before training anything,58.36210586
+3,21,before training adversary (1),58.36210586
+3,21,after training adversary (1),58.39108506
+3,21,after training adversary (2),58.40893952
+3,21,before training main model,58.40893952
+3,21,before training main model,58.45664154
+3,22,before training anything,58.45664154
+3,22,before training adversary (1),58.45664154
+3,22,after training adversary (1),58.47823155
+3,22,after training adversary (2),58.50121011
+3,22,before training main model,58.50121011
+3,22,before training main model,58.58675917
+3,23,before training anything,58.58675917
+3,23,before training adversary (1),58.58675917
+3,23,after training adversary (1),58.60139418
+3,23,after training adversary (2),58.66450944
+3,23,before training main model,58.66759782
+3,23,before training main model,58.6799063
+3,24,before training anything,58.6799063
+3,24,before training adversary (1),58.6799063
+3,24,after training adversary (1),58.71014707
+3,24,after training adversary (2),58.72582246
+3,24,before training main model,58.72582246
+3,24,before training main model,58.80610406
+3,25,before training anything,58.8448809
+3,25,before training adversary (1),58.85799219
+3,25,after training adversary (1),58.86574592
+3,25,after training adversary (2),58.88988774
+3,25,before training main model,58.88988774
+3,25,before training main model,59.07846349
+3,26,before training anything,59.07846349
+3,26,before training adversary (1),59.07846349
+3,26,after training adversary (1),59.04887398
+3,26,after training adversary (2),59.06701517
+3,26,before training main model,59.06701517
+3,26,before training main model,59.10956032
+3,27,before training anything,59.10956032
+3,27,before training adversary (1),59.10956032
+3,27,after training adversary (1),59.13113805
+3,27,after training adversary (2),59.15720499
+3,27,before training main model,59.15720499
+3,27,before training main model,59.21345126
+3,28,before training anything,59.21345126
+3,28,before training adversary (1),59.21333658
+3,28,after training adversary (1),59.24164403
+3,28,after training adversary (2),59.26591693
+3,28,before training main model,59.26591693
+3,28,before training main model,59.30287514
+3,29,before training anything,59.30287514
+3,29,before training adversary (1),59.30287514
+3,29,after training adversary (1),59.3283113
+3,29,after training adversary (2),59.3497129
+3,29,before training main model,59.3497129
+3,29,before training main model,59.42894182
+3,30,before training anything,59.44578867
+3,30,before training adversary (1),59.44579686
+3,30,after training adversary (1),59.48024832
+3,30,after training adversary (2),59.53776845
+3,30,before training main model,59.53776845
+3,30,before training main model,59.64591923
+3,31,before training anything,59.64591923
+3,31,before training adversary (1),59.64591923
+3,31,after training adversary (1),59.6643799
+3,31,after training adversary (2),59.68696525
+3,31,before training main model,59.68696525
+3,31,before training main model,59.74426829
+3,32,before training anything,59.74426829
+3,32,before training adversary (1),59.74426829
+3,32,after training adversary (1),59.77812992
+3,32,after training adversary (2),59.80251341
+3,32,before training main model,59.80251341
+3,32,before training main model,59.85485619
+3,33,before training anything,59.85485619
+3,33,before training adversary (1),59.85485619
+3,33,after training adversary (1),59.87120333
+3,33,after training adversary (2),59.89417779
+3,33,before training main model,59.89417779
+3,33,before training main model,59.94477568
+3,34,before training anything,59.94477568
+3,34,before training adversary (1),59.94477568
+3,34,after training adversary (1),59.97511066
+3,34,after training adversary (2),60.00333619
+3,34,before training main model,60.00460595
+3,34,before training main model,60.10887373
+3,35,before training anything,60.11662746
+3,35,before training adversary (1),60.11487846
+3,35,after training adversary (1),60.17246413
+3,35,after training adversary (2),60.18348237
+3,35,before training main model,60.18348237
+3,35,before training main model,60.32329523
+3,36,before training anything,60.32329523
+3,36,before training adversary (1),60.32329523
+3,36,after training adversary (1),60.3387904
+3,36,after training adversary (2),60.35787366
+3,36,before training main model,60.35787366
+3,36,before training main model,60.44592128
+3,37,before training anything,60.44604826
+3,37,before training adversary (1),60.44604826
+3,37,after training adversary (1),60.46356275
+3,37,after training adversary (2),60.48516915
+3,37,before training main model,60.48516915
+3,37,before training main model,60.52998349
+3,38,before training anything,60.52998349
+3,38,before training adversary (1),60.52998349
+3,38,after training adversary (1),60.55746355
+3,38,after training adversary (2),60.58387866
+3,38,before training main model,60.58387866
+3,38,before training main model,60.63403008
+3,39,before training anything,60.63403008
+3,39,before training adversary (1),60.63403008
+3,39,after training adversary (1),60.65344922
+3,39,after training adversary (2),60.69697741
+3,39,before training main model,60.69805875
+3,39,before training main model,60.75988378
+3,40,before training anything,60.75650458
+3,40,before training adversary (1),60.75638579
+3,40,after training adversary (1),60.80688128
+3,40,after training adversary (2),60.82761933
+3,40,before training main model,60.82745958
+3,40,before training main model,60.96018227
+3,41,before training anything,60.96018227
+3,41,before training adversary (1),60.96018227
+3,41,after training adversary (1),60.97774182
+3,41,after training adversary (2),61.00587725
+3,41,before training main model,61.00587725
+3,41,before training main model,61.05912115
+3,42,before training anything,61.05912115
+3,42,before training adversary (1),61.05912115
+3,42,after training adversary (1),61.08918989
+3,42,after training adversary (2),61.10572954
+3,42,before training main model,61.10572954
+3,42,before training main model,61.1614679
+3,43,before training anything,61.1614679
+3,43,before training adversary (1),61.1614679
+3,43,after training adversary (1),61.17973606
+3,43,after training adversary (2),61.20579072
+3,43,before training main model,61.20579072
+3,43,before training main model,61.26518682
+3,44,before training anything,61.26518682
+3,44,before training adversary (1),61.26518682
+3,44,after training adversary (1),61.28950067
+3,44,after training adversary (2),61.31493274
+3,44,before training main model,61.31493274
+3,44,before training main model,61.38943488
+3,45,before training anything,61.38831667
+3,45,before training adversary (1),61.38860749
+3,45,after training adversary (1),61.44138854
+3,45,after training adversary (2),61.45463501
+3,45,before training main model,61.45463501
+3,45,before training main model,61.59819162
+3,46,before training anything,61.59819162
+3,46,before training adversary (1),61.59819162
+3,46,after training adversary (1),61.63675546
+3,46,after training adversary (2),61.65195981
+3,46,before training main model,61.65173453
+3,46,before training main model,61.7060393
+3,47,before training anything,61.7060393
+3,47,before training adversary (1),61.7060393
+3,47,after training adversary (1),61.73197926
+3,47,after training adversary (2),61.7530327
+3,47,before training main model,61.7530327
+3,47,before training main model,61.809664
+3,48,before training anything,61.809664
+3,48,before training adversary (1),61.809664
+3,48,after training adversary (1),61.83815987
+3,48,after training adversary (2),61.90297088
+3,48,before training main model,61.90297088
+3,48,before training main model,61.93027072
+3,49,before training anything,61.9301888
+3,49,before training adversary (1),61.92984883
+3,49,after training adversary (1),61.94294374
+3,49,after training adversary (2),61.97008794
+3,49,before training main model,61.97008794
+3,49,before training main model,62.04586803
+3,50,after batches are done,62.04586803
+3,50,after model test_on_batch,62.0466176
+3,50,after adv test_on_batch,62.11404595
+3,50,before reloading weights,62.12150067
+3,50,after reloading weights,62.1224919
+4,0,before training anything,62.1308969
+4,0,before training adversary (1),62.1308969
+4,0,after training adversary (1),62.16139571
+4,0,after training adversary (2),62.17057894
+4,0,before training main model,62.17057894
+4,0,before training main model,62.32261427
+4,1,before training anything,62.32261427
+4,1,before training adversary (1),62.32261427
+4,1,after training adversary (1),62.34445005
+4,1,after training adversary (2),62.36293939
+4,1,before training main model,62.36255846
+4,1,before training main model,62.41616282
+4,2,before training anything,62.41616282
+4,2,before training adversary (1),62.41616282
+4,2,after training adversary (1),62.43674931
+4,2,after training adversary (2),62.46242304
+4,2,before training main model,62.46242304
+4,2,before training main model,62.52375654
+4,3,before training anything,62.52375654
+4,3,before training adversary (1),62.52375654
+4,3,after training adversary (1),62.55017574
+4,3,after training adversary (2),62.57301504
+4,3,before training main model,62.57303142
+4,3,before training main model,62.62834381
+4,4,before training anything,62.62834381
+4,4,before training adversary (1),62.62834381
+4,4,after training adversary (1),62.64485478
+4,4,after training adversary (2),62.66954957
+4,4,before training main model,62.66954957
+4,4,before training main model,62.73790362
+4,5,before training anything,62.74700083
+4,5,before training adversary (1),62.76105011
+4,5,after training adversary (1),62.77885542
+4,5,after training adversary (2),62.79802061
+4,5,before training main model,62.79802061
+4,5,before training main model,62.91996262
+4,6,before training anything,62.91996262
+4,6,before training adversary (1),62.91996262
+4,6,after training adversary (1),62.94042624
+4,6,after training adversary (2),62.96716902
+4,6,before training main model,62.96716083
+4,6,before training main model,63.06271232
+4,7,before training anything,63.06271232
+4,7,before training adversary (1),63.06271232
+4,7,after training adversary (1),63.05284506
+4,7,after training adversary (2),63.09545165
+4,7,before training main model,63.09545165
+4,7,before training main model,63.19010202
+4,8,before training anything,63.19010202
+4,8,before training adversary (1),63.19010202
+4,8,after training adversary (1),63.20966042
+4,8,after training adversary (2),63.22931302
+4,8,before training main model,63.22796134
+4,8,before training main model,63.29053184
+4,9,before training anything,63.29053184
+4,9,before training adversary (1),63.29053184
+4,9,after training adversary (1),63.29478758
+4,9,after training adversary (2),63.30929152
+4,9,before training main model,63.30929152
+4,9,before training main model,63.39198157
+4,10,before training anything,63.3812009
+4,10,before training adversary (1),63.38115994
+4,10,after training adversary (1),63.42380749
+4,10,after training adversary (2),63.45196339
+4,10,before training main model,63.45196339
+4,10,before training main model,63.59222682
+4,11,before training anything,63.59222682
+4,11,before training adversary (1),63.59222682
+4,11,after training adversary (1),63.62334003
+4,11,after training adversary (2),63.66723686
+4,11,before training main model,63.66723686
+4,11,before training main model,63.69892762
+4,12,before training anything,63.69892762
+4,12,before training adversary (1),63.69892762
+4,12,after training adversary (1),63.72715725
+4,12,after training adversary (2),63.74816973
+4,12,before training main model,63.74816563
+4,12,before training main model,63.81791232
+4,13,before training anything,63.81791232
+4,13,before training adversary (1),63.81843661
+4,13,after training adversary (1),63.86788762
+4,13,after training adversary (2),63.86273485
+4,13,before training main model,63.86273485
+4,13,before training main model,63.91960371
+4,14,before training anything,63.91960371
+4,14,before training adversary (1),63.91960371
+4,14,after training adversary (1),63.94467123
+4,14,after training adversary (2),63.99793562
+4,14,before training main model,63.99793562
+4,14,before training main model,64.04473242
+4,15,before training anything,64.04911923
+4,15,before training adversary (1),64.04918477
+4,15,after training adversary (1),64.09975808
+4,15,after training adversary (2),64.11019469
+4,15,before training main model,64.11019469
+4,15,before training main model,64.2445271
+4,16,before training anything,64.2445271
+4,16,before training adversary (1),64.2445271
+4,16,after training adversary (1),64.26344243
+4,16,after training adversary (2),64.3172352
+4,16,before training main model,64.3172352
+4,16,before training main model,64.35212493
+4,17,before training anything,64.35212493
+4,17,before training adversary (1),64.35212493
+4,17,after training adversary (1),64.3753984
+4,17,after training adversary (2),64.3946455
+4,17,before training main model,64.3946455
+4,17,before training main model,64.45193216
+4,18,before training anything,64.45193216
+4,18,before training adversary (1),64.45193216
+4,18,after training adversary (1),64.47540634
+4,18,after training adversary (2),64.4962263
+4,18,before training main model,64.4962263
+4,18,before training main model,64.55067443
+4,19,before training anything,64.55067443
+4,19,before training adversary (1),64.55067443
+4,19,after training adversary (1),64.6114263
+4,19,after training adversary (2),64.61684531
+4,19,before training main model,64.61684531
+4,19,before training main model,64.68837786
+4,20,before training anything,64.6946775
+4,20,before training adversary (1),64.6946775
+4,20,after training adversary (1),64.74674586
+4,20,after training adversary (2),64.76607898
+4,20,before training main model,64.76607898
+4,20,before training main model,64.91226112
+4,21,before training anything,64.91212186
+4,21,before training adversary (1),64.91194163
+4,21,after training adversary (1),64.93070541
+4,21,after training adversary (2),64.9541673
+4,21,before training main model,64.9541673
+4,21,before training main model,65.01190451
+4,22,before training anything,65.01190451
+4,22,before training adversary (1),65.01190451
+4,22,after training adversary (1),65.03405158
+4,22,after training adversary (2),65.05872998
+4,22,before training main model,65.05872998
+4,22,before training main model,65.10679245
+4,23,before training anything,65.10691942
+4,23,before training adversary (1),65.10753382
+4,23,after training adversary (1),65.13263821
+4,23,after training adversary (2),65.1625472
+4,23,before training main model,65.1625472
+4,23,before training main model,65.2197847
+4,24,before training anything,65.2197847
+4,24,before training adversary (1),65.2197847
+4,24,after training adversary (1),65.23931853
+4,24,after training adversary (2),65.26537728
+4,24,before training main model,65.26537728
+4,24,before training main model,65.33231411
+4,25,before training anything,65.33013914
+4,25,before training adversary (1),65.33012275
+4,25,after training adversary (1),65.37249587
+4,25,after training adversary (2),65.39529011
+4,25,before training main model,65.39529011
+4,25,before training main model,65.53880576
+4,26,before training anything,65.53880576
+4,26,before training adversary (1),65.53880576
+4,26,after training adversary (1),65.56786688
+4,26,after training adversary (2),65.60004506
+4,26,before training main model,65.60073318
+4,26,before training main model,65.67082803
+4,27,before training anything,65.67082803
+4,27,before training adversary (1),65.67082803
+4,27,after training adversary (1),65.67568179
+4,27,after training adversary (2),65.69875046
+4,27,before training main model,65.69875046
+4,27,before training main model,65.75188378
+4,28,before training anything,65.75180186
+4,28,before training adversary (1),65.75180186
+4,28,after training adversary (1),65.77222042
+4,28,after training adversary (2),65.79604275
+4,28,before training main model,65.79604275
+4,28,before training main model,65.85742131
+4,29,before training anything,65.85742131
+4,29,before training adversary (1),65.85742131
+4,29,after training adversary (1),65.88033024
+4,29,after training adversary (2),65.90609408
+4,29,before training main model,65.90609408
+4,29,before training main model,66.01331098
+4,30,before training anything,65.98027674
+4,30,before training adversary (1),65.98026035
+4,30,after training adversary (1),66.03566285
+4,30,after training adversary (2),66.05979238
+4,30,before training main model,66.05979238
+4,30,before training main model,66.24186778
+4,31,before training anything,66.24242483
+4,31,before training adversary (1),66.24416154
+4,31,after training adversary (1),66.25148928
+4,31,after training adversary (2),66.2685737
+4,31,before training main model,66.2680576
+4,31,before training main model,66.30790758
+4,32,before training anything,66.30790758
+4,32,before training adversary (1),66.30790758
+4,32,after training adversary (1),66.32917402
+4,32,after training adversary (2),66.34970317
+4,32,before training main model,66.34970317
+4,32,before training main model,66.40556851
+4,33,before training anything,66.40556851
+4,33,before training adversary (1),66.40556851
+4,33,after training adversary (1),66.4311767
+4,33,after training adversary (2),66.4537047
+4,33,before training main model,66.4537047
+4,33,before training main model,66.51848704
+4,34,before training anything,66.51848704
+4,34,before training adversary (1),66.51848704
+4,34,after training adversary (1),66.55127962
+4,34,after training adversary (2),66.56996557
+4,34,before training main model,66.56996557
+4,34,before training main model,66.63914291
+4,35,before training anything,66.63616512
+4,35,before training adversary (1),66.63616512
+4,35,after training adversary (1),66.68662784
+4,35,after training adversary (2),66.70381056
+4,35,before training main model,66.70381056
+4,35,before training main model,66.89494221
+4,36,before training anything,66.89494221
+4,36,before training adversary (1),66.89494221
+4,36,after training adversary (1),66.8731351
+4,36,after training adversary (2),66.89660928
+4,36,before training main model,66.89660928
+4,36,before training main model,66.95340851
+4,37,before training anything,66.95340851
+4,37,before training adversary (1),66.95340851
+4,37,after training adversary (1),66.97405235
+4,37,after training adversary (2),66.99923866
+4,37,before training main model,66.99923866
+4,37,before training main model,67.06060083
+4,38,before training anything,67.06060083
+4,38,before training adversary (1),67.06060083
+4,38,after training adversary (1),67.09440102
+4,38,after training adversary (2),67.11524966
+4,38,before training main model,67.11472538
+4,38,before training main model,67.16328346
+4,39,before training anything,67.16328346
+4,39,before training adversary (1),67.16328346
+4,39,after training adversary (1),67.18477517
+4,39,after training adversary (2),67.2359424
+4,39,before training main model,67.2359424
+4,39,before training main model,67.29683763
+4,40,before training anything,67.29415885
+4,40,before training adversary (1),67.29403187
+4,40,after training adversary (1),67.34487552
+4,40,after training adversary (2),67.38013389
+4,40,before training main model,67.38013389
+4,40,before training main model,67.5270656
+4,41,before training anything,67.5270656
+4,41,before training adversary (1),67.5270656
+4,41,after training adversary (1),67.54859827
+4,41,after training adversary (2),67.5690537
+4,41,before training main model,67.5690537
+4,41,before training main model,67.77418547
+4,42,before training anything,67.77418547
+4,42,before training adversary (1),67.77418547
+4,42,after training adversary (1),67.64661555
+4,42,after training adversary (2),67.67563981
+4,42,before training main model,67.67563981
+4,42,before training main model,67.77230541
+4,43,before training anything,67.77230541
+4,43,before training adversary (1),67.77230541
+4,43,after training adversary (1),67.78753843
+4,43,after training adversary (2),67.80747366
+4,43,before training main model,67.80747366
+4,43,before training main model,67.86054554
+4,44,before training anything,67.86054554
+4,44,before training adversary (1),67.86054554
+4,44,after training adversary (1),67.90802637
+4,44,after training adversary (2),67.91718093
+4,44,before training main model,67.91718093
+4,44,before training main model,67.97339853
+4,45,before training anything,67.98406042
+4,45,before training adversary (1),67.98406042
+4,45,after training adversary (1),68.05826355
+4,45,after training adversary (2),68.0661975
+4,45,before training main model,68.0661975
+4,45,before training main model,68.19631514
+4,46,before training anything,68.19642573
+4,46,before training adversary (1),68.19651994
+4,46,after training adversary (1),68.2193961
+4,46,after training adversary (2),68.2380288
+4,46,before training main model,68.2380288
+4,46,before training main model,68.28476826
+4,47,before training anything,68.28476826
+4,47,before training adversary (1),68.28476826
+4,47,after training adversary (1),68.30900019
+4,47,after training adversary (2),68.33778278
+4,47,before training main model,68.33778278
+4,47,before training main model,68.39409869
+4,48,before training anything,68.39409869
+4,48,before training adversary (1),68.39409869
+4,48,after training adversary (1),68.41638912
+4,48,after training adversary (2),68.44431155
+4,48,before training main model,68.44431155
+4,48,before training main model,68.49785856
+4,49,before training anything,68.4978176
+4,49,before training adversary (1),68.4978176
+4,49,after training adversary (1),68.5205504
+4,49,after training adversary (2),68.5418496
+4,49,before training main model,68.5418496
+4,49,before training main model,68.6427136
+4,50,after batches are done,68.64323789
+4,50,after model test_on_batch,68.62381056
+4,50,after adv test_on_batch,68.6942208
+4,50,before reloading weights,68.70049587
+4,50,after reloading weights,68.70042214
+5,0,before training anything,68.70471066
+5,0,before training adversary (1),68.70471066
+5,0,after training adversary (1),68.71519232
+5,0,after training adversary (2),68.73690931
+5,0,before training main model,68.73690931
+5,0,before training main model,68.88708096
+5,1,before training anything,68.8876544
+5,1,before training adversary (1),68.89076736
+5,1,after training adversary (1),68.90292838
+5,1,after training adversary (2),68.91954586
+5,1,before training main model,68.91954586
+5,1,before training main model,68.9769431
+5,2,before training anything,68.9769431
+5,2,before training adversary (1),68.9769431
+5,2,after training adversary (1),69.00126925
+5,2,after training adversary (2),69.02519398
+5,2,before training main model,69.02519398
+5,2,before training main model,69.19488717
+5,3,before training anything,69.19472742
+5,3,before training adversary (1),69.19472742
+5,3,after training adversary (1),69.10477926
+5,3,after training adversary (2),69.13255014
+5,3,before training main model,69.13255014
+5,3,before training main model,69.24120474
+5,4,before training anything,69.24120474
+5,4,before training adversary (1),69.24120474
+5,4,after training adversary (1),69.2677632
+5,4,after training adversary (2),69.27081062
+5,4,before training main model,69.27081062
+5,4,before training main model,69.31012813
+5,5,before training anything,69.2999168
+5,5,before training adversary (1),69.30002739
+5,5,after training adversary (1),69.33089485
+5,5,after training adversary (2),69.35507763
+5,5,before training main model,69.35507763
+5,5,before training main model,69.49072486
+5,6,before training anything,69.49072486
+5,6,before training adversary (1),69.49072486
+5,6,after training adversary (1),69.49948621
+5,6,after training adversary (2),69.521408
+5,6,before training main model,69.521408
+5,6,before training main model,69.57253837
+5,7,before training anything,69.57253837
+5,7,before training adversary (1),69.57253837
+5,7,after training adversary (1),69.6001536
+5,7,after training adversary (2),69.62456986
+5,7,before training main model,69.62456986
+5,7,before training main model,69.71962163
+5,8,before training anything,69.72533555
+5,8,before training adversary (1),69.72597043
+5,8,after training adversary (1),69.7183232
+5,8,after training adversary (2),69.74825267
+5,8,before training main model,69.74825267
+5,8,before training main model,69.80023501
+5,9,before training anything,69.80023501
+5,9,before training adversary (1),69.80037837
+5,9,after training adversary (1),69.85804186
+5,9,after training adversary (2),69.84941978
+5,9,before training main model,69.84941978
+5,9,before training main model,69.92726426
+5,10,before training anything,69.92710451
+5,10,before training adversary (1),69.92708813
+5,10,after training adversary (1),69.99580262
+5,10,after training adversary (2),70.01706086
+5,10,before training main model,70.01706086
+5,10,before training main model,70.1754409
+5,11,before training anything,70.17734554
+5,11,before training adversary (1),70.17859072
+5,11,after training adversary (1),70.19602739
+5,11,after training adversary (2),70.21671219
+5,11,before training main model,70.21671219
+5,11,before training main model,70.26716262
+5,12,before training anything,70.26716262
+5,12,before training adversary (1),70.26716262
+5,12,after training adversary (1),70.29238989
+5,12,after training adversary (2),70.31237837
+5,12,before training main model,70.31237837
+5,12,before training main model,70.37443277
+5,13,before training anything,70.37443277
+5,13,before training adversary (1),70.37443277
+5,13,after training adversary (1),70.39340544
+5,13,after training adversary (2),70.41621197
+5,13,before training main model,70.41621197
+5,13,before training main model,70.47770522
+5,14,before training anything,70.47770522
+5,14,before training adversary (1),70.47770522
+5,14,after training adversary (1),70.49965568
+5,14,after training adversary (2),70.54856602
+5,14,before training main model,70.54856602
+5,14,before training main model,70.58876826
+5,15,before training anything,70.5839063
+5,15,before training adversary (1),70.5839063
+5,15,after training adversary (1),70.71381504
+5,15,after training adversary (2),70.65852314
+5,15,before training main model,70.65852314
+5,15,before training main model,70.79727104
+5,16,before training anything,70.79843021
+5,16,before training adversary (1),70.79969997
+5,16,after training adversary (1),70.82165043
+5,16,after training adversary (2),70.88044851
+5,16,before training main model,70.88051814
+5,16,before training main model,70.88676454
+5,17,before training anything,70.88676454
+5,17,before training adversary (1),70.88676454
+5,17,after training adversary (1),70.89903616
+5,17,after training adversary (2),70.92973568
+5,17,before training main model,70.93205402
+5,17,before training main model,70.99531264
+5,18,before training anything,70.99530445
+5,18,before training adversary (1),70.9950505
+5,18,after training adversary (1),71.04950682
+5,18,after training adversary (2),71.03814042
+5,18,before training main model,71.03814042
+5,18,before training main model,71.08492493
+5,19,before training anything,71.08492493
+5,19,before training adversary (1),71.08492493
+5,19,after training adversary (1),71.10375424
+5,19,after training adversary (2),71.13073459
+5,19,before training main model,71.13068544
+5,19,before training main model,71.22884198
+5,20,before training anything,71.22669978
+5,20,before training adversary (1),71.22669978
+5,20,after training adversary (1),71.33454746
+5,20,after training adversary (2),71.34926848
+5,20,before training main model,71.34913741
+5,20,before training main model,71.5105321
+5,21,before training anything,71.5105321
+5,21,before training adversary (1),71.5105321
+5,21,after training adversary (1),71.53087693
+5,21,after training adversary (2),71.56294042
+5,21,before training main model,71.56294042
+5,21,before training main model,71.61793741
+5,22,before training anything,71.61793741
+5,22,before training adversary (1),71.61793741
+5,22,after training adversary (1),71.63192115
+5,22,after training adversary (2),71.65928653
+5,22,before training main model,71.65928653
+5,22,before training main model,71.71468083
+5,23,before training anything,71.71468083
+5,23,before training adversary (1),71.71468083
+5,23,after training adversary (1),71.74139494
+5,23,after training adversary (2),71.76486093
+5,23,before training main model,71.76442266
+5,23,before training main model,71.81421363
+5,24,before training anything,71.81421363
+5,24,before training adversary (1),71.81421363
+5,24,after training adversary (1),71.83597158
+5,24,after training adversary (2),71.86037965
+5,24,before training main model,71.86037965
+5,24,before training main model,71.96742042
+5,25,before training anything,71.91489741
+5,25,before training adversary (1),71.91462298
+5,25,after training adversary (1),71.95680358
+5,25,after training adversary (2),71.98880973
+5,25,before training main model,71.98880973
+5,25,before training main model,72.13180518
+5,26,before training anything,72.13180518
+5,26,before training adversary (1),72.13180518
+5,26,after training adversary (1),72.14645658
+5,26,after training adversary (2),72.1713193
+5,26,before training main model,72.1713193
+5,26,before training main model,72.23694541
+5,27,before training anything,72.23642931
+5,27,before training adversary (1),72.2372567
+5,27,after training adversary (1),72.25896141
+5,27,after training adversary (2),72.29759488
+5,27,before training main model,72.29759488
+5,27,before training main model,72.32702054
+5,28,before training anything,72.32702054
+5,28,before training adversary (1),72.32702054
+5,28,after training adversary (1),72.35731046
+5,28,after training adversary (2),72.3782615
+5,28,before training main model,72.3782615
+5,28,before training main model,72.4316119
+5,29,before training anything,72.4316119
+5,29,before training adversary (1),72.4316119
+5,29,after training adversary (1),72.45456179
+5,29,after training adversary (2),72.47997338
+5,29,before training main model,72.47997338
+5,29,before training main model,72.55404134
+5,30,before training anything,72.55247667
+5,30,before training adversary (1),72.55247667
+5,30,after training adversary (1),72.60490957
+5,30,after training adversary (2),72.61935206
+5,30,before training main model,72.61946266
+5,30,before training main model,72.76589466
+5,31,before training anything,72.76589466
+5,31,before training adversary (1),72.76589466
+5,31,after training adversary (1),72.78508851
+5,31,after training adversary (2),72.81012736
+5,31,before training main model,72.81012736
+5,31,before training main model,72.87035904
+5,32,before training anything,72.87035904
+5,32,before training adversary (1),72.87035904
+5,32,after training adversary (1),72.89005261
+5,32,after training adversary (2),72.9189376
+5,32,before training main model,72.9189376
+5,32,before training main model,72.97332838
+5,33,before training anything,72.97332838
+5,33,before training adversary (1),72.97332838
+5,33,after training adversary (1),72.9950167
+5,33,after training adversary (2),73.01828608
+5,33,before training main model,73.01828608
+5,33,before training main model,73.06629939
+5,34,before training anything,73.06629939
+5,34,before training adversary (1),73.06629939
+5,34,after training adversary (1),73.09345178
+5,34,after training adversary (2),73.16338278
+5,34,before training main model,73.16338278
+5,34,before training main model,73.21061376
+5,35,before training anything,73.20808653
+5,35,before training adversary (1),73.20808653
+5,35,after training adversary (1),73.25897523
+5,35,after training adversary (2),73.28924058
+5,35,before training main model,73.28924058
+5,35,before training main model,73.43475917
+5,36,before training anything,73.43475917
+5,36,before training adversary (1),73.43475917
+5,36,after training adversary (1),73.45391616
+5,36,after training adversary (2),73.48237107
+5,36,before training main model,73.48237107
+5,36,before training main model,73.54000179
+5,37,before training anything,73.54000179
+5,37,before training adversary (1),73.54000179
+5,37,after training adversary (1),73.56204237
+5,37,after training adversary (2),73.5796265
+5,37,before training main model,73.5796265
+5,37,before training main model,73.62964685
+5,38,before training anything,73.62964685
+5,38,before training adversary (1),73.62964685
+5,38,after training adversary (1),73.673728
+5,38,after training adversary (2),73.6744448
+5,38,before training main model,73.6744448
+5,38,before training main model,73.72736102
+5,39,before training anything,73.72761498
+5,39,before training adversary (1),73.72761498
+5,39,after training adversary (1),73.76805478
+5,39,after training adversary (2),73.79573146
+5,39,before training main model,73.79573146
+5,39,before training main model,73.8576425
+5,40,before training anything,73.85741722
+5,40,before training adversary (1),73.85714688
+5,40,after training adversary (1),73.91087002
+5,40,after training adversary (2),73.92259686
+5,40,before training main model,73.92259686
+5,40,before training main model,74.05697024
+5,41,before training anything,74.05697024
+5,41,before training adversary (1),74.05697024
+5,41,after training adversary (1),74.12097024
+5,41,after training adversary (2),74.1153751
+5,41,before training main model,74.1153751
+5,41,before training main model,74.1603328
+5,42,before training anything,74.1603328
+5,42,before training adversary (1),74.1603328
+5,42,after training adversary (1),74.18141082
+5,42,after training adversary (2),74.20271002
+5,42,before training main model,74.20271002
+5,42,before training main model,74.26594816
+5,43,before training anything,74.26594816
+5,43,before training adversary (1),74.26594816
+5,43,after training adversary (1),74.29239603
+5,43,after training adversary (2),74.31806157
+5,43,before training main model,74.31806157
+5,43,before training main model,74.38101299
+5,44,before training anything,74.38101299
+5,44,before training adversary (1),74.38101299
+5,44,after training adversary (1),74.4051753
+5,44,after training adversary (2),74.43122586
+5,44,before training main model,74.43122586
+5,44,before training main model,74.52133786
+5,45,before training anything,74.51736064
+5,45,before training adversary (1),74.51736064
+5,45,after training adversary (1),74.55687885
+5,45,after training adversary (2),74.58143846
+5,45,before training main model,74.58143846
+5,45,before training main model,74.73300685
+5,46,before training anything,74.73300685
+5,46,before training adversary (1),74.73485005
+5,46,after training adversary (1),74.75464602
+5,46,after training adversary (2),74.77955379
+5,46,before training main model,74.77955379
+5,46,before training main model,74.82878771
+5,47,before training anything,74.82878771
+5,47,before training adversary (1),74.82878771
+5,47,after training adversary (1),74.84950118
+5,47,after training adversary (2),74.87321293
+5,47,before training main model,74.87321293
+5,47,before training main model,74.93421466
+5,48,before training anything,74.93421466
+5,48,before training adversary (1),74.93421466
+5,48,after training adversary (1),74.95621427
+5,48,after training adversary (2),74.99807949
+5,48,before training main model,75.00055757
+5,48,before training main model,75.04820634
+5,49,before training anything,75.04820634
+5,49,before training adversary (1),75.04820634
+5,49,after training adversary (1),75.07931136
+5,49,after training adversary (2),75.10331392
+5,49,before training main model,75.10279782
+5,49,before training main model,75.18580326
+5,50,after batches are done,75.18580326
+5,50,after model test_on_batch,75.18579917
+5,50,after adv test_on_batch,75.25371904
+5,50,before reloading weights,75.25180211
+5,50,after reloading weights,75.25229363
+6,0,before training anything,75.2828375
+6,0,before training adversary (1),75.2828375
+6,0,after training adversary (1),75.3171456
+6,0,after training adversary (2),75.30302669
+6,0,before training main model,75.30302669
+6,0,before training main model,75.44858214
+6,1,before training anything,75.44858214
+6,1,before training adversary (1),75.44858214
+6,1,after training adversary (1),75.46404454
+6,1,after training adversary (2),75.48812902
+6,1,before training main model,75.48806758
+6,1,before training main model,75.54788147
+6,2,before training anything,75.54788147
+6,2,before training adversary (1),75.54788147
+6,2,after training adversary (1),75.57561958
+6,2,after training adversary (2),75.59861862
+6,2,before training main model,75.59861453
+6,2,before training main model,75.65225574
+6,3,before training anything,75.65225574
+6,3,before training adversary (1),75.65225574
+6,3,after training adversary (1),75.67888794
+6,3,after training adversary (2),75.70868224
+6,3,before training main model,75.70866995
+6,3,before training main model,75.75618355
+6,4,before training anything,75.75618355
+6,4,before training adversary (1),75.75618355
+6,4,after training adversary (1),75.77650381
+6,4,after training adversary (2),75.79991654
+6,4,before training main model,75.79991654
+6,4,before training main model,75.87812557
+6,5,before training anything,75.87506995
+6,5,before training adversary (1),75.8748119
+6,5,after training adversary (1),75.91351091
+6,5,after training adversary (2),75.92461107
+6,5,before training main model,75.92461107
+6,5,before training main model,76.03400294
+6,6,before training anything,76.03388416
+6,6,before training adversary (1),76.03388416
+6,6,after training adversary (1),76.0611799
+6,6,after training adversary (2),76.08551424
+6,6,before training main model,76.08551424
+6,6,before training main model,76.15943066
+6,7,before training anything,76.15934874
+6,7,before training adversary (1),76.15934874
+6,7,after training adversary (1),76.1804841
+6,7,after training adversary (2),76.22211174
+6,7,before training main model,76.22211174
+6,7,before training main model,76.25759539
+6,8,before training anything,76.25759539
+6,8,before training adversary (1),76.25759539
+6,8,after training adversary (1),76.27955814
+6,8,after training adversary (2),76.29955072
+6,8,before training main model,76.29955072
+6,8,before training main model,76.3588649
+6,9,before training anything,76.3588649
+6,9,before training adversary (1),76.3588649
+6,9,after training adversary (1),76.39217357
+6,9,after training adversary (2),76.41585254
+6,9,before training main model,76.41560269
+6,9,before training main model,76.49129677
+6,10,before training anything,76.48687309
+6,10,before training adversary (1),76.48687309
+6,10,after training adversary (1),76.52685414
+6,10,after training adversary (2),76.54930432
+6,10,before training main model,76.54930432
+6,10,before training main model,76.69978726
+6,11,before training anything,76.69978726
+6,11,before training adversary (1),76.69978726
+6,11,after training adversary (1),76.72137728
+6,11,after training adversary (2),76.75692646
+6,11,before training main model,76.75692646
+6,11,before training main model,76.81466778
+6,12,before training anything,76.81466778
+6,12,before training adversary (1),76.81466778
+6,12,after training adversary (1),76.82630042
+6,12,after training adversary (2),76.85062656
+6,12,before training main model,76.85062656
+6,12,before training main model,76.91196416
+6,13,before training anything,76.91196416
+6,13,before training adversary (1),76.91196416
+6,13,after training adversary (1),76.92603802
+6,13,after training adversary (2),76.98162893
+6,13,before training main model,76.98536038
+6,13,before training main model,77.01028045
+6,14,before training anything,77.01019443
+6,14,before training adversary (1),77.01014528
+6,14,after training adversary (1),77.04898765
+6,14,after training adversary (2),77.06232832
+6,14,before training main model,77.06232832
+6,14,before training main model,77.15454566
+6,15,before training anything,77.1751895
+6,15,before training adversary (1),77.1751895
+6,15,after training adversary (1),77.19641498
+6,15,after training adversary (2),77.21401549
+6,15,before training main model,77.21401549
+6,15,before training main model,77.37336218
+6,16,before training anything,77.37336218
+6,16,before training adversary (1),77.37387827
+6,16,after training adversary (1),77.3905408
+6,16,after training adversary (2),77.43741952
+6,16,before training main model,77.43741952
+6,16,before training main model,77.46351514
+6,17,before training anything,77.46351514
+6,17,before training adversary (1),77.46351514
+6,17,after training adversary (1),77.48582605
+6,17,after training adversary (2),77.50582682
+6,17,before training main model,77.50582682
+6,17,before training main model,77.55426202
+6,18,before training anything,77.55426202
+6,18,before training adversary (1),77.55426202
+6,18,after training adversary (1),77.61364173
+6,18,after training adversary (2),77.59701606
+6,18,before training main model,77.59701606
+6,18,before training main model,77.65817754
+6,19,before training anything,77.65817754
+6,19,before training adversary (1),77.65817754
+6,19,after training adversary (1),77.67823974
+6,19,after training adversary (2),77.69801523
+6,19,before training main model,77.69801523
+6,19,before training main model,77.79410739
+6,20,before training anything,77.82329549
+6,20,before training adversary (1),77.82329549
+6,20,after training adversary (1),77.84296858
+6,20,after training adversary (2),77.90695219
+6,20,before training main model,77.90695219
+6,20,before training main model,78.00177869
+6,21,before training anything,78.00190976
+6,21,before training adversary (1),78.00190976
+6,21,after training adversary (1),78.02669466
+6,21,after training adversary (2),78.04872704
+6,21,before training main model,78.04872704
+6,21,before training main model,78.10941338
+6,22,before training anything,78.10941338
+6,22,before training adversary (1),78.10941338
+6,22,after training adversary (1),78.13538202
+6,22,after training adversary (2),78.15955661
+6,22,before training main model,78.15955661
+6,22,before training main model,78.25557094
+6,23,before training anything,78.25557094
+6,23,before training adversary (1),78.25614438
+6,23,after training adversary (1),78.2424105
+6,23,after training adversary (2),78.25514496
+6,23,before training main model,78.25507123
+6,23,before training main model,78.30985114
+6,24,before training anything,78.30985114
+6,24,before training adversary (1),78.30985114
+6,24,after training adversary (1),78.33024102
+6,24,after training adversary (2),78.35532083
+6,24,before training main model,78.35530445
+6,24,before training main model,78.43405414
+6,25,before training anything,78.43501261
+6,25,before training adversary (1),78.43501261
+6,25,after training adversary (1),78.49805414
+6,25,after training adversary (2),78.51741594
+6,25,before training main model,78.51741594
+6,25,before training main model,78.65321062
+6,26,before training anything,78.65321062
+6,26,before training adversary (1),78.65321062
+6,26,after training adversary (1),78.6752553
+6,26,after training adversary (2),78.70199808
+6,26,before training main model,78.70180557
+6,26,before training main model,78.75392717
+6,27,before training anything,78.75392717
+6,27,before training adversary (1),78.75384934
+6,27,after training adversary (1),78.77782323
+6,27,after training adversary (2),78.80853094
+6,27,before training main model,78.80853094
+6,27,before training main model,78.86572339
+6,28,before training anything,78.86559642
+6,28,before training adversary (1),78.86559642
+6,28,after training adversary (1),78.89711514
+6,28,after training adversary (2),78.94664806
+6,28,before training main model,78.94664806
+6,28,before training main model,78.97207603
+6,29,before training anything,78.97207603
+6,29,before training adversary (1),78.97207603
+6,29,after training adversary (1),78.99652096
+6,29,after training adversary (2),79.02340301
+6,29,before training main model,79.02340301
+6,29,before training main model,79.09654118
+6,30,before training anything,79.10375834
+6,30,before training adversary (1),79.1036928
+6,30,after training adversary (1),79.14950246
+6,30,after training adversary (2),79.17111296
+6,30,before training main model,79.17111296
+6,30,before training main model,79.30281574
+6,31,before training anything,79.30281574
+6,31,before training adversary (1),79.30281574
+6,31,after training adversary (1),79.32157542
+6,31,after training adversary (2),79.34314906
+6,31,before training main model,79.34314906
+6,31,before training main model,79.39500851
+6,32,before training anything,79.39509453
+6,32,before training adversary (1),79.39509453
+6,32,after training adversary (1),79.42888243
+6,32,after training adversary (2),79.45243034
+6,32,before training main model,79.45243034
+6,32,before training main model,79.51117517
+6,33,before training anything,79.51117517
+6,33,before training adversary (1),79.51117517
+6,33,after training adversary (1),79.52487219
+6,33,after training adversary (2),79.55054592
+6,33,before training main model,79.55054592
+6,33,before training main model,79.60809472
+6,34,before training anything,79.60803738
+6,34,before training adversary (1),79.60803738
+6,34,after training adversary (1),79.63964621
+6,34,after training adversary (2),79.64881715
+6,34,before training main model,79.64881715
+6,34,before training main model,79.75606682
+6,35,before training anything,79.74946816
+6,35,before training adversary (1),79.74946406
+6,35,after training adversary (1),79.78932224
+6,35,after training adversary (2),79.82244659
+6,35,before training main model,79.82244659
+6,35,before training main model,79.96259942
+6,36,before training anything,79.96259942
+6,36,before training adversary (1),79.96259942
+6,36,after training adversary (1),79.9899689
+6,36,after training adversary (2),80.01305395
+6,36,before training main model,80.01305395
+6,36,before training main model,80.06927155
+6,37,before training anything,80.06927155
+6,37,before training adversary (1),80.06927155
+6,37,after training adversary (1),80.09853338
+6,37,after training adversary (2),80.12901171
+6,37,before training main model,80.12901171
+6,37,before training main model,80.17666048
+6,38,before training anything,80.17666048
+6,38,before training adversary (1),80.17666048
+6,38,after training adversary (1),80.20658995
+6,38,after training adversary (2),80.22590669
+6,38,before training main model,80.22590669
+6,38,before training main model,80.27876557
+6,39,before training anything,80.27876557
+6,39,before training adversary (1),80.27866726
+6,39,after training adversary (1),80.30017126
+6,39,after training adversary (2),80.32251085
+6,39,before training main model,80.32251085
+6,39,before training main model,80.40915763
+6,40,before training anything,80.40207565
+6,40,before training adversary (1),80.40126464
+6,40,after training adversary (1),80.43953357
+6,40,after training adversary (2),80.45668762
+6,40,before training main model,80.45668762
+6,40,before training main model,80.59245363
+6,41,before training anything,80.59245363
+6,41,before training adversary (1),80.59245363
+6,41,after training adversary (1),80.61462118
+6,41,after training adversary (2),80.63158682
+6,41,before training main model,80.63158682
+6,41,before training main model,80.69910938
+6,42,before training anything,80.69910938
+6,42,before training adversary (1),80.69910938
+6,42,after training adversary (1),80.71620608
+6,42,after training adversary (2),80.74046259
+6,42,before training main model,80.74027008
+6,42,before training main model,80.83509248
+6,43,before training anything,80.83509248
+6,43,before training adversary (1),80.83509248
+6,43,after training adversary (1),80.82508595
+6,43,after training adversary (2),80.84962509
+6,43,before training main model,80.84956774
+6,43,before training main model,80.9024471
+6,44,before training anything,80.9024471
+6,44,before training adversary (1),80.90293862
+6,44,after training adversary (1),80.93420749
+6,44,after training adversary (2),80.96269107
+6,44,before training main model,80.9625641
+6,44,before training main model,81.04767898
+6,45,before training anything,81.04960819
+6,45,before training adversary (1),81.05024307
+6,45,after training adversary (1),81.10844723
+6,45,after training adversary (2),81.13050829
+6,45,before training main model,81.13032397
+6,45,before training main model,81.27317606
+6,46,before training anything,81.27317606
+6,46,before training adversary (1),81.27317606
+6,46,after training adversary (1),81.32032512
+6,46,after training adversary (2),81.33625037
+6,46,before training main model,81.33625037
+6,46,before training main model,81.37785344
+6,47,before training anything,81.37777152
+6,47,before training adversary (1),81.37777152
+6,47,after training adversary (1),81.39634688
+6,47,after training adversary (2),81.44902144
+6,47,before training main model,81.44902144
+6,47,before training main model,81.4792704
+6,48,before training anything,81.4792704
+6,48,before training adversary (1),81.47965133
+6,48,after training adversary (1),81.49997978
+6,48,after training adversary (2),81.52077107
+6,48,before training main model,81.52077107
+6,48,before training main model,81.58870733
+6,49,before training anything,81.58837965
+6,49,before training adversary (1),81.58837965
+6,49,after training adversary (1),81.61573274
+6,49,after training adversary (2),81.6329728
+6,49,before training main model,81.6329728
+6,49,before training main model,81.71106304
+6,50,after batches are done,81.71106304
+6,50,after model test_on_batch,81.71145626
+6,50,after adv test_on_batch,81.78070323
+6,50,before reloading weights,81.80814234
+6,50,after reloading weights,81.78735104
+7,0,before training anything,81.80847821
+7,0,before training adversary (1),81.80771635
+7,0,after training adversary (1),81.82602547
+7,0,after training adversary (2),81.83687578
+7,0,before training main model,81.83687578
+7,0,before training main model,81.99186432
+7,1,before training anything,81.99084442
+7,1,before training adversary (1),81.99084442
+7,1,after training adversary (1),82.00323072
+7,1,after training adversary (2),82.03394662
+7,1,before training main model,82.03394662
+7,1,before training main model,82.08671949
+7,2,before training anything,82.08671949
+7,2,before training adversary (1),82.08671949
+7,2,after training adversary (1),82.12013875
+7,2,after training adversary (2),82.15463526
+7,2,before training main model,82.1545943
+7,2,before training main model,82.20522496
+7,3,before training anything,82.20646195
+7,3,before training adversary (1),82.20677325
+7,3,after training adversary (1),82.2156247
+7,3,after training adversary (2),82.24459162
+7,3,before training main model,82.24459162
+7,3,before training main model,82.30157517
+7,4,before training anything,82.30157517
+7,4,before training adversary (1),82.30157517
+7,4,after training adversary (1),82.32211661
+7,4,after training adversary (2),82.34104422
+7,4,before training main model,82.34104422
+7,4,before training main model,82.41134797
+7,5,before training anything,82.41058202
+7,5,before training adversary (1),82.41055744
+7,5,after training adversary (1),82.44378419
+7,5,after training adversary (2),82.50146816
+7,5,before training main model,82.50146816
+7,5,before training main model,82.57966899
+7,6,before training anything,82.57966899
+7,6,before training adversary (1),82.57966899
+7,6,after training adversary (1),82.60653056
+7,6,after training adversary (2),82.62920192
+7,6,before training main model,82.62920192
+7,6,before training main model,82.69819494
+7,7,before training anything,82.69819494
+7,7,before training adversary (1),82.69819494
+7,7,after training adversary (1),82.71440691
+7,7,after training adversary (2),82.73422746
+7,7,before training main model,82.73422746
+7,7,before training main model,82.79247667
+7,8,before training anything,82.79247667
+7,8,before training adversary (1),82.79247667
+7,8,after training adversary (1),82.81899418
+7,8,after training adversary (2),82.88376832
+7,8,before training main model,82.88325222
+7,8,before training main model,82.8961833
+7,9,before training anything,82.8961833
+7,9,before training adversary (1),82.8961833
+7,9,after training adversary (1),82.9211689
+7,9,after training adversary (2),82.94370099
+7,9,before training main model,82.94370099
+7,9,before training main model,83.03201485
+7,10,before training anything,83.02229504
+7,10,before training adversary (1),83.02229504
+7,10,after training adversary (1),83.06981274
+7,10,after training adversary (2),83.09095629
+7,10,before training main model,83.09095629
+7,10,before training main model,83.24616602
+7,11,before training anything,83.24616602
+7,11,before training adversary (1),83.24616602
+7,11,after training adversary (1),83.26529434
+7,11,after training adversary (2),83.29667379
+7,11,before training main model,83.29667379
+7,11,before training main model,83.35156019
+7,12,before training anything,83.35156019
+7,12,before training adversary (1),83.35156019
+7,12,after training adversary (1),83.36900096
+7,12,after training adversary (2),83.3951785
+7,12,before training main model,83.39505152
+7,12,before training main model,83.45436979
+7,13,before training anything,83.45441894
+7,13,before training adversary (1),83.45441894
+7,13,after training adversary (1),83.47590246
+7,13,after training adversary (2),83.5045335
+7,13,before training main model,83.5068969
+7,13,before training main model,83.55004826
+7,14,before training anything,83.55004826
+7,14,before training adversary (1),83.55004826
+7,14,after training adversary (1),83.5788759
+7,14,after training adversary (2),83.63060838
+7,14,before training main model,83.63060838
+7,14,before training main model,83.68408576
+7,15,before training anything,83.68080896
+7,15,before training adversary (1),83.68114483
+7,15,after training adversary (1),83.77355059
+7,15,after training adversary (2),83.74403891
+7,15,before training main model,83.74403891
+7,15,before training main model,83.89292851
+7,16,before training anything,83.89293261
+7,16,before training adversary (1),83.89293261
+7,16,after training adversary (1),83.91968358
+7,16,after training adversary (2),83.94292429
+7,16,before training main model,83.94292429
+7,16,before training main model,84.00943514
+7,17,before training anything,84.00943514
+7,17,before training adversary (1),84.00943514
+7,17,after training adversary (1),84.05281997
+7,17,after training adversary (2),84.04749517
+7,17,before training main model,84.04749517
+7,17,before training main model,84.10218086
+7,18,before training anything,84.10218086
+7,18,before training adversary (1),84.10218086
+7,18,after training adversary (1),84.13037363
+7,18,after training adversary (2),84.1469993
+7,18,before training main model,84.14681088
+7,18,before training main model,84.21450957
+7,19,before training anything,84.21440307
+7,19,before training adversary (1),84.21440307
+7,19,after training adversary (1),84.24308736
+7,19,after training adversary (2),84.29786726
+7,19,before training main model,84.29786317
+7,19,before training main model,84.33461248
+7,20,before training anything,84.33767219
+7,20,before training adversary (1),84.33767219
+7,20,after training adversary (1),84.37705114
+7,20,after training adversary (2),84.40491622
+7,20,before training main model,84.40491622
+7,20,before training main model,84.54770278
+7,21,before training anything,84.54770278
+7,21,before training adversary (1),84.54770278
+7,21,after training adversary (1),84.66905498
+7,21,after training adversary (2),84.59056333
+7,21,before training main model,84.59056333
+7,21,before training main model,84.64247603
+7,22,before training anything,84.64247603
+7,22,before training adversary (1),84.64247603
+7,22,after training adversary (1),84.66589696
+7,22,after training adversary (2),84.68135526
+7,22,before training main model,84.68135526
+7,22,before training main model,84.75894579
+7,23,before training anything,84.75894579
+7,23,before training adversary (1),84.75894579
+7,23,after training adversary (1),84.7899648
+7,23,after training adversary (2),84.80308019
+7,23,before training main model,84.80279347
+7,23,before training main model,84.86084608
+7,24,before training anything,84.86084608
+7,24,before training adversary (1),84.86084608
+7,24,after training adversary (1),84.88102298
+7,24,after training adversary (2),84.90267443
+7,24,before training main model,84.90267443
+7,24,before training main model,84.98490163
+7,25,before training anything,84.99084493
+7,25,before training adversary (1),84.99084493
+7,25,after training adversary (1),85.06283622
+7,25,after training adversary (2),85.0843607
+7,25,before training main model,85.0843607
+7,25,before training main model,85.23036262
+7,26,before training anything,85.23036262
+7,26,before training adversary (1),85.23036262
+7,26,after training adversary (1),85.29750016
+7,26,after training adversary (2),85.275648
+7,26,before training main model,85.275648
+7,26,before training main model,85.32538163
+7,27,before training anything,85.32538163
+7,27,before training adversary (1),85.32538163
+7,27,after training adversary (1),85.33552333
+7,27,after training adversary (2),85.36165581
+7,27,before training main model,85.36165581
+7,27,before training main model,85.41448602
+7,28,before training anything,85.41448602
+7,28,before training adversary (1),85.41448602
+7,28,after training adversary (1),85.43687885
+7,28,after training adversary (2),85.46571878
+7,28,before training main model,85.46557952
+7,28,before training main model,85.52946893
+7,29,before training anything,85.52946893
+7,29,before training adversary (1),85.52946893
+7,29,after training adversary (1),85.55145626
+7,29,after training adversary (2),85.57658931
+7,29,before training main model,85.57658931
+7,29,before training main model,85.72289434
+7,30,before training anything,85.67707648
+7,30,before training adversary (1),85.67973478
+7,30,after training adversary (1),85.72514304
+7,30,after training adversary (2),85.73722214
+7,30,before training main model,85.73722214
+7,30,before training main model,85.87817779
+7,31,before training anything,85.87817779
+7,31,before training adversary (1),85.87817779
+7,31,after training adversary (1),85.88413747
+7,31,after training adversary (2),85.89980877
+7,31,before training main model,85.89980877
+7,31,before training main model,85.95084902
+7,32,before training anything,85.95084902
+7,32,before training adversary (1),85.95084902
+7,32,after training adversary (1),85.97529395
+7,32,after training adversary (2),86.04219392
+7,32,before training main model,86.04219392
+7,32,before training main model,86.04615066
+7,33,before training anything,86.04615066
+7,33,before training adversary (1),86.04615066
+7,33,after training adversary (1),86.0742615
+7,33,after training adversary (2),86.10018509
+7,33,before training main model,86.10052915
+7,33,before training main model,86.15502234
+7,34,before training anything,86.15502234
+7,34,before training adversary (1),86.15502234
+7,34,after training adversary (1),86.18630349
+7,34,after training adversary (2),86.2060503
+7,34,before training main model,86.2060503
+7,34,before training main model,86.29510963
+7,35,before training anything,86.28603699
+7,35,before training adversary (1),86.28738048
+7,35,after training adversary (1),86.32131994
+7,35,after training adversary (2),86.34189005
+7,35,before training main model,86.34189005
+7,35,before training main model,86.47038976
+7,36,before training anything,86.47038976
+7,36,before training adversary (1),86.47038976
+7,36,after training adversary (1),86.53441843
+7,36,after training adversary (2),86.51795251
+7,36,before training main model,86.51795251
+7,36,before training main model,86.58197709
+7,37,before training anything,86.58197709
+7,37,before training adversary (1),86.58197709
+7,37,after training adversary (1),86.60066714
+7,37,after training adversary (2),86.62382182
+7,37,before training main model,86.62368256
+7,37,before training main model,86.68985344
+7,38,before training anything,86.69033677
+7,38,before training adversary (1),86.69027942
+7,38,after training adversary (1),86.71404032
+7,38,after training adversary (2),86.73724006
+7,38,before training main model,86.73724006
+7,38,before training main model,86.80061338
+7,39,before training anything,86.80061338
+7,39,before training adversary (1),86.80061338
+7,39,after training adversary (1),86.82704896
+7,39,after training adversary (2),86.85125632
+7,39,before training main model,86.85099827
+7,39,before training main model,86.9384151
+7,40,before training anything,86.93726003
+7,40,before training adversary (1),86.93726003
+7,40,after training adversary (1),86.97921946
+7,40,after training adversary (2),86.99448115
+7,40,before training main model,86.99448115
+7,40,before training main model,87.13495757
+7,41,before training anything,87.13495757
+7,41,before training adversary (1),87.13495757
+7,41,after training adversary (1),87.20436838
+7,41,after training adversary (2),87.28245862
+7,41,before training main model,87.28220058
+7,41,before training main model,87.25898035
+7,42,before training anything,87.25898035
+7,42,before training adversary (1),87.25898035
+7,42,after training adversary (1),87.28190976
+7,42,after training adversary (2),87.30362266
+7,42,before training main model,87.30362266
+7,42,before training main model,87.34315315
+7,43,before training anything,87.34315315
+7,43,before training adversary (1),87.34315315
+7,43,after training adversary (1),87.36588186
+7,43,after training adversary (2),87.39360358
+7,43,before training main model,87.39352986
+7,43,before training main model,87.46211738
+7,44,before training anything,87.46211738
+7,44,before training adversary (1),87.46211738
+7,44,after training adversary (1),87.48780339
+7,44,after training adversary (2),87.5090944
+7,44,before training main model,87.5090944
+7,44,before training main model,87.59148544
+7,45,before training anything,87.58820864
+7,45,before training adversary (1),87.58820864
+7,45,after training adversary (1),87.74201344
+7,45,after training adversary (2),87.67062835
+7,45,before training main model,87.67046451
+7,45,before training main model,87.8140457
+7,46,before training anything,87.8140457
+7,46,before training adversary (1),87.8140457
+7,46,after training adversary (1),87.8395433
+7,46,after training adversary (2),87.84923034
+7,46,before training main model,87.84923034
+7,46,before training main model,87.93234227
+7,47,before training anything,87.93399706
+7,47,before training adversary (1),87.9357911
+7,47,after training adversary (1),87.93580749
+7,47,after training adversary (2),87.9505367
+7,47,before training main model,87.9505367
+7,47,before training main model,88.0075776
+7,48,before training anything,88.0075776
+7,48,before training adversary (1),88.0075776
+7,48,after training adversary (1),88.03520922
+7,48,after training adversary (2),88.06544179
+7,48,before training main model,88.06544179
+7,48,before training main model,88.11711693
+7,49,before training anything,88.11749786
+7,49,before training adversary (1),88.11749786
+7,49,after training adversary (1),88.14077542
+7,49,after training adversary (2),88.1717207
+7,49,before training main model,88.17170842
+7,49,before training main model,88.25017549
+7,50,after batches are done,88.25017549
+7,50,after model test_on_batch,88.25106432
+7,50,after adv test_on_batch,88.32088064
+7,50,before reloading weights,88.32127386
+7,50,after reloading weights,88.32341197
+8,0,before training anything,88.36293018
+8,0,before training adversary (1),88.36353229
+8,0,after training adversary (1),88.37803622
+8,0,after training adversary (2),88.3961856
+8,0,before training main model,88.3961856
+8,0,before training main model,88.54591898
+8,1,before training anything,88.54591898
+8,1,before training adversary (1),88.54591898
+8,1,after training adversary (1),88.56048435
+8,1,after training adversary (2),88.57740902
+8,1,before training main model,88.57740902
+8,1,before training main model,88.65037107
+8,2,before training anything,88.65086259
+8,2,before training adversary (1),88.65124352
+8,2,after training adversary (1),88.67917824
+8,2,after training adversary (2),88.68663706
+8,2,before training main model,88.68663706
+8,2,before training main model,88.73995469
+8,3,before training anything,88.73992192
+8,3,before training adversary (1),88.73992192
+8,3,after training adversary (1),88.75953357
+8,3,after training adversary (2),88.78379008
+8,3,before training main model,88.78391296
+8,3,before training main model,88.8445911
+8,4,before training anything,88.8445911
+8,4,before training adversary (1),88.8445911
+8,4,after training adversary (1),88.88870093
+8,4,after training adversary (2),88.91226522
+8,4,before training main model,88.91226522
+8,4,before training main model,88.96091341
+8,5,before training anything,88.96095027
+8,5,before training adversary (1),88.96046694
+8,5,after training adversary (1),88.99990323
+8,5,after training adversary (2),89.02413517
+8,5,before training main model,89.02413517
+8,5,before training main model,89.14827264
+8,6,before training anything,89.14827264
+8,6,before training adversary (1),89.14823168
+8,6,after training adversary (1),89.21769165
+8,6,after training adversary (2),89.21049498
+8,6,before training main model,89.2099543
+8,6,before training main model,89.23672576
+8,7,before training anything,89.23672576
+8,7,before training adversary (1),89.23774157
+8,7,after training adversary (1),89.26042522
+8,7,after training adversary (2),89.27701402
+8,7,before training main model,89.2770263
